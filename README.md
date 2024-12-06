@@ -18,4 +18,4 @@ This file has one row for each available combination of ZCTA and RSA (Rehabilita
 * **CMS_region**: [The CMS region](https://www.cms.gov/about-cms/where-we-are/regional-offices) to which this RSA belongs
 * **CMS_office**: [The city in which this CMS regional office is located](https://www.cms.gov/about-cms/where-we-are/regional-offices)
 
-Please cite the following DOI if you are using this data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13983386.svg)](https://doi.org/10.5281/zenodo.13983386)
+Please cite the following DOI if you are using this data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13983385.svg)](https://doi.org/10.5281/zenodo.13983385)
