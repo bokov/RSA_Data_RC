@@ -1,0 +1,1712 @@
+RSA,RSA_Name,Community_Discharge,CMS_region,CMS_office
+A0001,"MA, Springfield [Urban core]",0.503873085,I,Boston
+A0002,"MA, Amherst Town-Northampton [Urban core]",0.524827077,I,Boston
+A0003,"MA, Worcester County [Urban core] [Central] One",0.52863927,I,Boston
+A0004,"MA, Pittsfield [Urban core]",0.5591533,I,Boston
+A0005,"MA, Middlesex County [Urban core] [Central] One",0.510218562,I,Boston
+A0006,"MA, Springfield-Amherst Town-Northampton [Suburban]",0.516039274,I,Boston
+A0007,"MA, Worcester County [Urban core] [Central] Two",0.504921146,I,Boston
+A0008,"MA, Middlesex County [Urban core] [Central] Two",0.485716923,I,Boston
+A0009,"MA, Essex County [Urban core]",0.548479707,I,Boston
+A0010,"MA, Norfolk County [Urban core]",0.519948869,I,Boston
+A0011,"MA, Plymouth County [Urban core]",0.483119309,I,Boston
+A0012,"MA, Barnstable Town [Urban core]",0.457609405,I,Boston
+A0013,"MA, Bristol County [Urban core]",0.510994317,I,Boston
+A0014,"RI, Washington County [Urban core]",0.503725736,I,Boston
+A0015,"RI, Providence County [Urban core]",0.541648719,I,Boston
+A0016,"NH, Manchester-Nashua [Urban core]",0.583348108,I,Boston
+A0017,"NH, Rockingham County [Urban core]",0.548955276,I,Boston
+A0018,"NH, Keene [Suburban]",0.566558005,I,Boston
+A0019,"NH, Concord [Suburban]",0.535904636,I,Boston
+A0020,"NH, Sullivan County [Small town/rural]",0.55213694,I,Boston
+A0021,"MA-RI-NH, Boston-Worcester-Providence [Small town/rural] [Central]",0.601139666,I,Boston
+A0022,"NH, Rockingham County-Strafford County [Suburban] [Central]",0.54796469,I,Boston
+A0023,"CT, South Central Connecticut Planning Region [Urban core]",0.471050377,I,Boston
+A0024,"NH, Grafton County [Small town/rural] [Central] One",0.578839904,I,Boston
+A0025,"NH-VT, Lebanon-Claremont [Suburban]",0.561198999,I,Boston
+A0026,"NH, Grafton County [Small town/rural] [Central] Two",0.558691101,I,Boston
+A0027,"NH-VT, Keene-Brattleboro [Small town/rural]",0.501285081,I,Boston
+A0028,"NH, Grafton County [Large rural]",0.594890592,I,Boston
+A0029,"NH, Strafford County [Urban core]",0.489105539,I,Boston
+A0030,"ME, York County [Urban core]",0.482397272,I,Boston
+A0031,"ME, Cumberland County [Urban core]",0.482779611,I,Boston
+A0032,"ME, Portland-South Portland [Suburban]",0.494732658,I,Boston
+A0033,"ME, Lewiston-Auburn [Urban core]",0.478261039,I,Boston
+A0034,"ME, Augusta-Waterville [Suburban]",0.517324558,I,Boston
+A0035,"ME, Lincoln County [Small town/rural]",0.521325642,I,Boston
+A0036,"ME, Bangor [Urban core]",0.492609757,I,Boston
+A0037,"ME, Penobscot County [Small town/rural]",0.529160084,I,Boston
+A0038,NA One,0.549083775,I,Boston
+A0039,"ME, Bangor [Large rural]",0.486141582,I,Boston
+A0040,"ME, Augusta-Waterville [Small town/rural]",0.4970352,I,Boston
+A0041,"ME, Knox County [Small town/rural]",0.458434279,I,Boston
+A0042,"ME, Bangor [Small town/rural] [Central]",0.536313649,I,Boston
+A0043,"ME, Washington County [Small town/rural]",0.549322714,I,Boston
+A0044,"VT, Barre [Large rural]",0.512921888,I,Boston
+A0045,"VT, Bennington [Suburban]",0.489216322,I,Boston
+A0046,"VT, Rutland [Suburban]",0.491877536,I,Boston
+A0048,"VT, Burlington-South Burlington [Urban core]",0.503178616,I,Boston
+A0049,"VT, Rutland [Urban core]",0.538106392,I,Boston
+A0050,"VT, Burlington-South Burlington [Large rural]",0.543246865,I,Boston
+A0051,"VT, Burlington-South Burlington-Barre [Small town/rural]",0.530955913,I,Boston
+A0052,"VT, Burlington-South Burlington-Barre [Suburban]",0.502971747,I,Boston
+A0053,"VT, Orleans County [Small town/rural]",0.554543447,I,Boston
+A0054,"CT, Capitol Planning Region [Urban core]",0.465071666,I,Boston
+A0055,"CT, New Haven-Hartford-Waterbury [Suburban]",0.490871337,I,Boston
+A0056,"CT, Putnam [Urban core]",0.499040975,I,Boston
+A0057,"CT, Norwich-New London-Willimantic [Urban core]",0.468282175,I,Boston
+A0058,"CT, Lower Connecticut River Valley Planning Region [Urban core]",0.464671708,I,Boston
+A0059,"CT, Western Connecticut Planning Region [Urban core]",0.459958543,I,Boston
+A0060,"MA, Vineyard Haven [Suburban]",0.504351725,I,Boston
+A0061,"NH, Sullivan County [Large rural]",0.50184607,I,Boston
+A0062,"NH, Belknap County [Suburban] [Central]",0.52357477,I,Boston
+A0063,"CT, Waterbury-Shelton [Urban core]",0.488615953,I,Boston
+B0001,"NJ, Middlesex County [Urban core]",0.532913489,II,New York
+B0002,"NJ, Bergen County [Urban core]",0.517146212,II,New York
+B0003,"NJ, Morris County [Urban core]",0.534037787,II,New York
+B0004,"NJ, Monmouth County [Urban core]",0.518220629,II,New York
+B0005,"NJ, Hunterdon County [Urban core]",0.573343723,II,New York
+B0006,"NJ, Camden County [Urban core]",0.549088029,II,New York
+B0007,"NJ, Ocean County [Urban core]",0.510574221,II,New York
+B0008,"NJ, Burlington County [Urban core]",0.554860488,II,New York
+B0009,"NJ, Atlantic City-Hammonton [Urban core]",0.550810215,II,New York
+B0010,"NJ, Trenton-Princeton [Urban core]",0.553243458,II,New York
+B0011,"NY, Kings County [Urban core]",0.553507399,II,New York
+B0012,"NY, Westchester County [Urban core]",0.541896429,II,New York
+B0013,"NY, Rockland County [Urban core]",0.525249678,II,New York
+B0014,"NY, Orange County [Urban core]",0.589959378,II,New York
+B0015,"NY, Kingston [Urban core]",0.566272538,II,New York
+B0016,"NY, Nassau County [Urban core]",0.535073817,II,New York
+B0017,"NY, Suffolk County [Urban core] [Central] One",0.54701889,II,New York
+B0018,"NY, Suffolk County [Urban core] [Central] Two",0.514323974,II,New York
+B0019,"NY, Albany County [Urban core]",0.563201461,II,New York
+B0020,"NY, Albany-Schenectady [Suburban]",0.572862359,II,New York
+B0021,"NY, Schenectady County [Urban core]",0.584252698,II,New York
+B0022,"NY, Schoharie County [Urban core]",0.491730034,II,New York
+B0023,"NY, Oneonta [Small town/rural]",0.569377796,II,New York
+B0024,"NY, Dutchess County [Urban core]",0.56822144,II,New York
+B0025,"NY-NJ-CT-PA, New York-Newark [Large rural]",0.577401171,II,New York
+B0026,"NY, Warren County [Urban core]",0.553771274,II,New York
+B0027,"NY, Glens Falls [Small town/rural]",0.487985129,II,New York
+B0028,"NY, Clinton County [Suburban]",0.521226015,II,New York
+B0029,"NY, Franklin County [Suburban]",0.569327713,II,New York
+B0030,"NY, Ontario County [Urban core]",0.564987639,II,New York
+B0031,"NY, Syracuse [Urban core]",0.570135674,II,New York
+B0032,"NY, Syracuse-Auburn [Suburban]",0.571805375,II,New York
+B0033,"NY, Utica-Rome [Urban core]",0.577496275,II,New York
+B0034,"NY, Ithaca-Cortland [Urban core]",0.612613966,II,New York
+B0035,"NY, Watertown-Fort Drum [Urban core]",0.624861315,II,New York
+B0036,"NY, St. Lawrence County [Large rural]",0.569308761,II,New York
+B0037,"NY, Binghamton [Urban core]",0.593332514,II,New York
+B0038,"NY, Buffalo-Cheektowaga-Olean [Urban core]",0.552687318,II,New York
+B0039,"NY, Genesee County [Urban core]",0.597084402,II,New York
+B0040,"NY, Elmira-Corning [Large rural]",0.564266667,II,New York
+B0041,"NY, Olean [Suburban]",0.570050495,II,New York
+B0042,"NY, Monroe County [Urban core]",0.575388266,II,New York
+B0043,"NY, Elmira [Urban core]",0.621031136,II,New York
+B0044,"NJ, Warren County [Urban core]",0.536393286,II,New York
+B0045,"NY, Washington County [Urban core]",0.515452467,II,New York
+B0046,"NY, Essex County [Large rural]",0.527349902,II,New York
+B0047,"NY, Suffolk County [Urban core] [Central] Three",0.557740492,II,New York
+B0048,"NY, Jamestown-Dunkirk [Suburban]",0.579091763,II,New York
+C0001,"PA, Beaver County [Urban core]",0.59844807,III,Philadelphia
+C0002,"PA, Washington County [Urban core]",0.547976188,III,Philadelphia
+C0003,"PA, Allegheny County [Urban core] [Central] One",0.548074875,III,Philadelphia
+C0004,"PA, Allegheny County [Urban core] [Central] Two",0.559906457,III,Philadelphia
+C0005,"PA, Allegheny County [Urban core] [Central] Three",0.57469322,III,Philadelphia
+C0006,"PA, Westmoreland County [Urban core] [Central] One",0.544775407,III,Philadelphia
+C0007,"PA, Pittsburgh [Large rural]",0.579125167,III,Philadelphia
+C0008,"PA, Fayette County [Urban core]",0.525636531,III,Philadelphia
+C0009,"PA, Johnstown-Somerset [Suburban]",0.58058553,III,Philadelphia
+C0010,"PA, Johnstown [Urban core]",0.595472471,III,Philadelphia
+C0011,"PA, Somerset [Large rural]",0.581018583,III,Philadelphia
+C0012,"MD-WV, Cumberland [Urban core]",0.56928134,III,Philadelphia
+C0013,"PA, Butler County [Suburban]",0.521934392,III,Philadelphia
+C0014,"PA, Indiana [Suburban]",0.580457977,III,Philadelphia
+C0015,"PA, Erie-Meadville [Large rural]",0.531833609,III,Philadelphia
+C0016,"PA, Blair County [Urban core] [Central] One",0.58557238,III,Philadelphia
+C0017,"PA, Clearfield County [Suburban] [Central] One",0.58234157,III,Philadelphia
+C0018,"PA, Indiana [Large rural]",0.555516156,III,Philadelphia
+C0019,"PA, Clearfield County [Suburban] [Central] Two",0.594674118,III,Philadelphia
+C0020,"PA, Elk County [Large rural]",0.612347247,III,Philadelphia
+C0021,"PA, Bradford [Large rural]",0.600831302,III,Philadelphia
+C0022,"PA, Mercer County [Suburban] [Central] One",0.556651343,III,Philadelphia
+C0023,"PA-OH-WV, Pittsburgh-Weirton-Steubenville [Small town/rural]",0.577287117,III,Philadelphia
+C0024,"PA, Lawrence County [Suburban]",0.600751539,III,Philadelphia
+C0025,"PA, Hermitage [Urban core]",0.532330244,III,Philadelphia
+C0026,"PA, Oil City [Suburban]",0.533554339,III,Philadelphia
+C0027,"PA, Warren [Suburban]",0.584111272,III,Philadelphia
+C0028,"PA, Erie-Meadville [Suburban]",0.61693271,III,Philadelphia
+C0029,"PA, Erie-Meadville [Urban core]",0.549056005,III,Philadelphia
+C0030,"PA, Blair County [Urban core] [Central] Two",0.544966515,III,Philadelphia
+C0031,"PA, Bradford [Suburban]",0.564129852,III,Philadelphia
+C0032,"PA, Potter County [Small town/rural]",0.54608324,III,Philadelphia
+C0033,"PA, State College-DuBois [Urban core]",0.598930095,III,Philadelphia
+C0034,"PA, Lock Haven [Suburban]",0.60122147,III,Philadelphia
+C0035,"PA, Williamsport-Lock Haven [Small town/rural]",0.531889164,III,Philadelphia
+C0036,"PA, Sayre [Suburban]",0.523308648,III,Philadelphia
+C0037,"PA, Lebanon [Urban core]",0.582221424,III,Philadelphia
+C0038,"PA, Cumberland County [Urban core]",0.569704536,III,Philadelphia
+C0039,"PA, Northumberland County [Suburban] [Central] One",0.596548121,III,Philadelphia
+C0040,"PA, Dauphin County [Urban core]",0.603104227,III,Philadelphia
+C0041,"PA, Harrisburg-York-Lebanon [Urban core] [Central]",0.590474222,III,Philadelphia
+C0042,"PA, Chambersburg [Urban core]",0.634205207,III,Philadelphia
+C0043,"DC-MD-VA-WV-PA, Washington-Baltimore-Arlington [Small town/rural]",0.578319312,III,Philadelphia
+C0044,"PA, Gettysburg [Urban core]",0.583051104,III,Philadelphia
+C0045,"PA, York-Hanover [Urban core]",0.591101251,III,Philadelphia
+C0046,"PA, Lancaster County [Urban core] [Central]",0.565577009,III,Philadelphia
+C0047,"PA, Chester County [Urban core] [Central] One",0.545725839,III,Philadelphia
+C0048,"PA, Chester County [Urban core] [Central] Two",0.556686445,III,Philadelphia
+C0049,"PA, Williamsport-Lock Haven [Urban core]",0.60598556,III,Philadelphia
+C0050,"PA, Bloomsburg-Berwick-Sunbury [Urban core]",0.601365346,III,Philadelphia
+C0051,"PA, Northumberland County [Suburban] [Central] Two",0.548056136,III,Philadelphia
+C0052,"PA, Harrisburg-York-Lebanon [Suburban]",0.595464179,III,Philadelphia
+C0053,"PA, Carbon County [Urban core]",0.590176228,III,Philadelphia
+C0054,"PA, Luzerne County [Urban core] [Central] One",0.603697693,III,Philadelphia
+C0055,"PA, Lehigh County [Urban core]",0.511588858,III,Philadelphia
+C0056,"PA, Northampton County [Urban core]",0.552690428,III,Philadelphia
+C0057,"PA, Bucks County [Urban core] [Central] One",0.505037831,III,Philadelphia
+C0058,"PA, Montgomery County [Urban core] [Central] One",0.545460312,III,Philadelphia
+C0059,"PA, East Stroudsburg [Urban core]",0.567052874,III,Philadelphia
+C0060,"PA, Philadelphia County [Urban core] [Central] One",0.533459285,III,Philadelphia
+C0061,"PA, Luzerne County [Urban core] [Central] Two",0.560001222,III,Philadelphia
+C0062,"PA, Lackawanna County [Urban core]",0.573530568,III,Philadelphia
+C0063,"PA, Hemlock Farms [Urban core]",0.552006182,III,Philadelphia
+C0064,"PA, Wyoming County [Urban core]",0.556877422,III,Philadelphia
+C0065,"PA, Bucks County [Urban core] [Central] Two",0.573130361,III,Philadelphia
+C0066,"PA, Montgomery County [Urban core] [Central] Two",0.541733321,III,Philadelphia
+C0067,"PA, Bucks County [Urban core] [Central] Three",0.541392531,III,Philadelphia
+C0068,"PA, Philadelphia County [Urban core] [Central] Two",0.532731979,III,Philadelphia
+C0069,"PA, Delaware County [Urban core]",0.547983307,III,Philadelphia
+C0070,"PA, Reading [Urban core]",0.539769738,III,Philadelphia
+C0071,"DE, New Castle County [Urban core]",0.472845863,III,Philadelphia
+C0072,"DE, Dover [Urban core]",0.539690262,III,Philadelphia
+C0073,"DE, Seaford [Suburban]",0.490618264,III,Philadelphia
+C0074,"DC, District of Columbia [Urban core]",0.523528411,III,Philadelphia
+C0075,"MD, Montgomery County [Urban core] [Central] One",0.472455009,III,Philadelphia
+C0076,"VA, Loudoun County [Urban core]",0.571388402,III,Philadelphia
+C0077,"VA, Fauquier County [Urban core]",0.535201034,III,Philadelphia
+C0078,"VA, Fairfax County [Urban core]",0.547988244,III,Philadelphia
+C0079,"VA-WV, Winchester [Urban core]",0.550554261,III,Philadelphia
+C0080,"MD, Charles County [Urban core]",0.502630137,III,Philadelphia
+C0081,"MD, Prince George's County [Urban core]",0.52964522,III,Philadelphia
+C0082,"MD, Calvert County [Urban core]",0.529219915,III,Philadelphia
+C0083,"MD, St. Mary's County [Urban core]",0.539290521,III,Philadelphia
+C0084,"MD, Anne Arundel County [Urban core]",0.54191224,III,Philadelphia
+C0085,"MD, Baltimore County [Urban core]",0.528909773,III,Philadelphia
+C0086,"MD, Montgomery County [Urban core] [Central] Two",0.497199946,III,Philadelphia
+C0087,"MD, Harford County [Urban core]",0.521503481,III,Philadelphia
+C0088,"MD, Baltimore city [Urban core]",0.508366169,III,Philadelphia
+C0089,"MD, Carroll County [Urban core]",0.568093163,III,Philadelphia
+C0090,"WV, Morgantown [Small town/rural]",0.574847903,III,Philadelphia
+C0091,"MD, Queen Anne's County [Urban core]",0.486340215,III,Philadelphia
+C0092,"MD, Cambridge [Suburban]",0.529793864,III,Philadelphia
+C0093,"MD, Baltimore-Columbia-Towson [Large rural]",0.491536626,III,Philadelphia
+C0094,"MD, Frederick County [Urban core]",0.537073318,III,Philadelphia
+C0095,"MD, Washington County [Urban core]",0.593747988,III,Philadelphia
+C0096,"MD, Salisbury-Ocean Pines [Urban core]",0.529106386,III,Philadelphia
+C0097,"MD, Cecil County [Urban core]",0.501623919,III,Philadelphia
+C0098,"VA, Arlington County [Urban core]",0.498057172,III,Philadelphia
+C0099,"VA, Stafford County [Urban core]",0.579964818,III,Philadelphia
+C0100,"VA, Lancaster County [Small town/rural]",0.522875138,III,Philadelphia
+C0101,"VA, Richmond [Small town/rural]",0.480336053,III,Philadelphia
+C0102,"VA-WV, Arlington-Alexandria-Reston [Suburban]",0.558614092,III,Philadelphia
+C0103,"VA, Chesterfield County [Urban core]",0.519214777,III,Philadelphia
+C0104,"VA, Albemarle County [Urban core]",0.522767155,III,Philadelphia
+C0105,"VA, Rockingham County [Urban core] [Central] One",0.542566528,III,Philadelphia
+C0106,"VA, Rockingham County [Urban core] [Central] Two",0.524681027,III,Philadelphia
+C0107,"VA, Staunton-Stuarts Draft [Urban core]",0.537535912,III,Philadelphia
+C0108,"VA, Newport News city [Urban core]",0.53274333,III,Philadelphia
+C0109,"VA, Gloucester County [Urban core]",0.500909794,III,Philadelphia
+C0110,"VA, Richmond [Large rural]",0.579212561,III,Philadelphia
+C0111,"VA, Accomack County [Small town/rural]",0.539734954,III,Philadelphia
+C0112,"VA, Northampton County [Small town/rural]",0.552070846,III,Philadelphia
+C0113,"VA, Portsmouth city [Urban core]",0.541593204,III,Philadelphia
+C0114,"VA-NC, Virginia Beach-Chesapeake-Norfolk [Large rural]",0.549388482,III,Philadelphia
+C0115,"VA, Virginia Beach city [Urban core]",0.536835874,III,Philadelphia
+C0116,"VA, Prince George County [Urban core]",0.553224145,III,Philadelphia
+C0117,"VA, Brunswick County [Large rural]",0.51045273,III,Philadelphia
+C0118,"VA, Danville [Large rural]",0.561248309,III,Philadelphia
+C0119,"VA, Lynchburg [Urban core]",0.507605207,III,Philadelphia
+C0120,"VA, Roanoke city [Urban core]",0.530210114,III,Philadelphia
+C0121,"VA, Patrick County [Suburban]",0.556233441,III,Philadelphia
+C0122,"VA, Henry County [Suburban]",0.562930865,III,Philadelphia
+C0123,"VA, Montgomery County [Urban core]",0.527937975,III,Philadelphia
+C0124,"VA, Franklin County [Urban core]",0.527609972,III,Philadelphia
+C0125,"VA, Danville [Suburban]",0.594158758,III,Philadelphia
+C0126,"VA, Giles County [Urban core]",0.560804392,III,Philadelphia
+C0127,"VA, Danville [Small town/rural]",0.53659179,III,Philadelphia
+C0128,"VA, Scott County [Urban core]",0.582059556,III,Philadelphia
+C0129,"VA, Washington County [Urban core]",0.577754697,III,Philadelphia
+C0130,"VA, Floyd County [Large rural]",0.590011814,III,Philadelphia
+C0131,"VA, Smyth County [Large rural]",0.548560122,III,Philadelphia
+C0132,"WV-VA, Bluefield [Suburban]",0.564301257,III,Philadelphia
+C0133,"VA, Giles County [Large rural]",0.567463946,III,Philadelphia
+C0134,"VA, Botetourt County [Large rural]",0.561117446,III,Philadelphia
+C0135,"VA, Craig County [Large rural]",0.518554321,III,Philadelphia
+C0136,"WV-VA, Bluefield [Large rural]",0.595322185,III,Philadelphia
+C0137,"WV, Raleigh County [Urban core]",0.58882651,III,Philadelphia
+C0138,"WV, Beckley [Large rural]",0.553149324,III,Philadelphia
+C0139,"WV, Elkins [Small town/rural]",0.566039665,III,Philadelphia
+C0140,"WV, Summers County [Urban core]",0.556961513,III,Philadelphia
+C0141,"WV, Kanawha County [Urban core]",0.505784275,III,Philadelphia
+C0142,"WV, Cabell County [Urban core]",0.533227526,III,Philadelphia
+C0143,"WV, Boone County [Urban core]",0.577117332,III,Philadelphia
+C0144,"WV-OH-KY, Charleston-Huntington-Ashland [Urban core] [Central]",0.53053244,III,Philadelphia
+C0145,"WV-KY-OH, Huntington-Ashland [Suburban]",0.550541898,III,Philadelphia
+C0146,"WV, Parkersburg-Vienna [Large rural]",0.564988961,III,Philadelphia
+C0147,"WV, Jackson County [Urban core]",0.545611505,III,Philadelphia
+C0148,"VA-WV, Arlington-Alexandria-Reston [Urban core] [Central]",0.577563535,III,Philadelphia
+C0149,"DC-MD-VA-WV-PA, Washington-Baltimore-Arlington [Urban core] [Outlying]",0.566589203,III,Philadelphia
+C0150,"WV, Wayne County [Urban core]",0.5659205,III,Philadelphia
+C0151,"WV, Marshall County [Urban core]",0.537158383,III,Philadelphia
+C0152,"WV, Brooke County [Urban core]",0.523821476,III,Philadelphia
+C0153,"WV, Parkersburg-Vienna [Urban core]",0.54245084,III,Philadelphia
+C0154,"WV, Fairmont-Clarksburg [Large rural]",0.561428544,III,Philadelphia
+C0155,"WV-OH-KY, Charleston-Huntington-Ashland [Large rural]",0.537607602,III,Philadelphia
+C0156,"WV, Elkins [Suburban]",0.543367283,III,Philadelphia
+C0157,"WV, Fairmont-Clarksburg [Suburban]",0.48505863,III,Philadelphia
+C0158,"WV, Preston County [Urban core]",0.514754501,III,Philadelphia
+C0159,"WV, Monongalia County [Urban core]",0.57241305,III,Philadelphia
+C0160,"WV, Charleston [Small town/rural]",0.538825621,III,Philadelphia
+C0161,"VA-WV, Winchester [Large rural]",0.54211139,III,Philadelphia
+C0162,"WV, Pendleton County [Urban core]",0.560132707,III,Philadelphia
+C0163,"PA, Butler County [Urban core]",0.584355476,III,Philadelphia
+C0164,"PA, Westmoreland County [Urban core] [Central] Two",0.553815048,III,Philadelphia
+C0165,"PA, Mercer County [Suburban] [Central] Two",0.585812537,III,Philadelphia
+C0166,"PA, Somerset [Small town/rural]",0.559961811,III,Philadelphia
+C0167,"PA, Jefferson County [Large rural]",0.570551402,III,Philadelphia
+C0168,"PA, Johnstown [Large rural]",0.552302783,III,Philadelphia
+C0169,"NY-NJ-CT-PA, New York-Newark [Suburban]",0.516962763,III,Philadelphia
+C0170,"PA, Philadelphia County [Urban core] [Central] Three",0.572121818,III,Philadelphia
+C0171,"VA, Prince William County [Urban core]",0.551393941,III,Philadelphia
+C0172,"VA, Nelson County [Urban core]",0.547675282,III,Philadelphia
+C0173,"VA, Buchanan County [Small town/rural]",0.592196732,III,Philadelphia
+C0174,"WV, Fayette County [Urban core] [Central]",0.534750106,III,Philadelphia
+C0175,"WV, Clay County [Urban core]",0.548381221,III,Philadelphia
+D0001,"NC, Jacksonville [Urban core]",0.562514862,IV,Atlanta
+D0002,"NC, Forsyth County [Urban core]",0.579941177,IV,Atlanta
+D0003,"NC, Surry County [Urban core]",0.569139227,IV,Atlanta
+D0004,"NC, Greensboro-High Point [Urban core]",0.555464105,IV,Atlanta
+D0005,"NC, Wilkes County [Large rural]",0.593734322,IV,Atlanta
+D0006,"NC, Rowan County [Urban core]",0.630411438,IV,Atlanta
+D0007,"NC, Rockingham County [Suburban]",0.619586459,IV,Atlanta
+D0008,"NC, Randolph County [Suburban]",0.565055567,IV,Atlanta
+D0009,"NC, Sanford [Suburban]",0.552540609,IV,Atlanta
+D0010,"NC, Rockingham [Large rural]",0.576628973,IV,Atlanta
+D0011,"NC, Caswell County [Suburban]",0.563671746,IV,Atlanta
+D0012,"NC, Burlington [Urban core]",0.539905798,IV,Atlanta
+D0013,"NC, Pinehurst-Southern Pines [Suburban]",0.507717303,IV,Atlanta
+D0014,"NC, Durham County [Urban core]",0.516497236,IV,Atlanta
+D0015,"NC, Person County [Urban core]",0.575669133,IV,Atlanta
+D0016,"NC, Anderson Creek [Urban core]",0.546689656,IV,Atlanta
+D0017,"NC, Wake County [Urban core] [Central] One",0.555092028,IV,Atlanta
+D0018,"NC, Raleigh-Durham-Cary [Large rural]",0.586724925,IV,Atlanta
+D0019,"NC, Wake County [Urban core] [Central] Two",0.529212084,IV,Atlanta
+D0020,"NC, Raleigh-Cary [Suburban]",0.548160622,IV,Atlanta
+D0021,"NC, Goldsboro [Urban core]",0.511015182,IV,Atlanta
+D0022,"FL, Lake County [Urban core] [Central]",0.52951845,IV,Atlanta
+D0023,"NC, Rocky Mount-Wilson-Roanoke Rapids [Urban core]",0.539976753,IV,Atlanta
+D0024,"NC, Rocky Mount-Wilson-Roanoke Rapids [Large rural]",0.553790524,IV,Atlanta
+D0025,"NC, Greenville-Washington [Suburban]",0.53042149,IV,Atlanta
+D0026,"NC, Wilson [Suburban]",0.56324794,IV,Atlanta
+D0027,"NC, Greenville-Washington [Urban core]",0.537225839,IV,Atlanta
+D0028,"NC, Roanoke Rapids [Suburban]",0.554775974,IV,Atlanta
+D0030,"NC, Greenville-Washington [Large rural]",0.557139926,IV,Atlanta
+D0031,"NC, Rocky Mount [Suburban]",0.518382278,IV,Atlanta
+D0032,"NC, Elizabeth City [Large rural]",0.564570572,IV,Atlanta
+D0033,"NC, Kinston [Suburban]",0.618188775,IV,Atlanta
+D0034,"NC, Elizabeth City [Suburban]",0.569547856,IV,Atlanta
+D0035,"NC, Kill Devil Hills [Large rural]",0.520192414,IV,Atlanta
+D0036,"NC, Currituck County [Urban core]",0.544061887,IV,Atlanta
+D0037,"NC, Kill Devil Hills [Suburban]",0.582054169,IV,Atlanta
+D0038,"NC, Albemarle [Suburban]",0.567109298,IV,Atlanta
+D0039,"NC, Gaston County [Urban core]",0.57050146,IV,Atlanta
+D0040,"NC, Anson County [Urban core]",0.591830719,IV,Atlanta
+D0041,"NC, Shelby-Kings Mountain [Suburban]",0.564171065,IV,Atlanta
+D0042,"NC, Forest City [Suburban]",0.570753525,IV,Atlanta
+D0043,"NC, Cabarrus County [Urban core]",0.581580063,IV,Atlanta
+D0044,"NC, Mecklenburg County [Urban core] [Central] One",0.55410884,IV,Atlanta
+D0045,"NC, Catawba County [Urban core]",0.575849963,IV,Atlanta
+D0046,"NC, Mecklenburg County [Urban core] [Central] Two",0.572758731,IV,Atlanta
+D0047,"NC, Iredell County [Urban core]",0.548908591,IV,Atlanta
+D0048,"NC, Caldwell County [Urban core]",0.549575049,IV,Atlanta
+D0049,"NC, Cumberland County [Urban core]",0.562589254,IV,Atlanta
+D0050,"NC, Sampson County [Large rural]",0.527867959,IV,Atlanta
+D0051,"NC, Bladen County [Large rural]",0.525580835,IV,Atlanta
+D0052,"NC, Hoke County [Urban core]",0.554219748,IV,Atlanta
+D0053,"NC, Lumberton [Suburban]",0.546612025,IV,Atlanta
+D0054,"NC, Laurinburg [Suburban]",0.568494885,IV,Atlanta
+D0055,"NC, New Bern-Morehead City [Small town/rural]",0.582680605,IV,Atlanta
+D0056,"NC, New Hanover County [Urban core]",0.533818208,IV,Atlanta
+D0057,"NC, Brunswick County [Urban core]",0.545858719,IV,Atlanta
+D0058,"NC, Columbus County [Large rural]",0.525106512,IV,Atlanta
+D0059,"NC, New Bern [Urban core]",0.565663168,IV,Atlanta
+D0061,"NC, Morehead City [Suburban]",0.556156481,IV,Atlanta
+D0062,"NC, Boone [Small town/rural]",0.588351245,IV,Atlanta
+D0063,"NC, Boone [Suburban]",0.521096069,IV,Atlanta
+D0064,"NC, North Wilkesboro [Suburban]",0.549070958,IV,Atlanta
+D0065,"NC, Ashe County [Large rural]",0.543805406,IV,Atlanta
+D0066,"NC, Buncombe County [Urban core]",0.528482371,IV,Atlanta
+D0067,"NC, Marion [Small town/rural]",0.552433833,IV,Atlanta
+D0068,"NC, Brevard [Urban core]",0.520589709,IV,Atlanta
+D0069,"NC, Asheville-Waynesville-Brevard [Suburban]",0.561388571,IV,Atlanta
+D0070,"NC, Waynesville [Urban core]",0.515993199,IV,Atlanta
+D0071,"NC, Asheville-Waynesville-Brevard [Small town/rural]",0.532458332,IV,Atlanta
+D0072,"NC, Asheville, NC-Forest City [Urban core]",0.568916302,IV,Atlanta
+D0073,"NC, Henderson County [Urban core]",0.48125129,IV,Atlanta
+D0074,"NC, Polk County [Small town/rural]",0.569673118,IV,Atlanta
+D0075,"SC, Sumter [Large rural]",0.548758561,IV,Atlanta
+D0076,"SC, Bamberg County [Large rural]",0.545099035,IV,Atlanta
+D0077,"SC, Lexington County [Urban core]",0.52175026,IV,Atlanta
+D0078,"SC, Kershaw County [Urban core]",0.490033516,IV,Atlanta
+D0079,"SC, Florence [Urban core]",0.572060965,IV,Atlanta
+D0080,"SC, York County [Urban core]",0.585346102,IV,Atlanta
+D0081,"SC, Richland County [Urban core]",0.542097344,IV,Atlanta
+D0082,"SC, Orangeburg [Suburban]",0.531815911,IV,Atlanta
+D0083,"SC, Spartanburg [Suburban]",0.498506082,IV,Atlanta
+D0084,"SC, Greenwood [Suburban]",0.547869874,IV,Atlanta
+D0085,"SC, Sumter [Urban core]",0.550263593,IV,Atlanta
+D0086,"SC, Myrtle Beach-Conway [Suburban]",0.522664268,IV,Atlanta
+D0087,"SC, Lancaster County [Urban core]",0.520670898,IV,Atlanta
+D0088,"SC, Newberry [Suburban]",0.51829616,IV,Atlanta
+D0089,"SC, Florence [Suburban]",0.507977955,IV,Atlanta
+D0090,"SC, Aiken County [Urban core]",0.591641799,IV,Atlanta
+D0091,"SC, Spartanburg [Urban core]",0.547240769,IV,Atlanta
+D0092,"SC, Gaffney [Suburban]",0.507885754,IV,Atlanta
+D0093,"SC, Charleston County [Urban core]",0.530442862,IV,Atlanta
+D0094,"SC, Berkeley County [Urban core]",0.560602913,IV,Atlanta
+D0095,"SC, Jasper County [Urban core]",0.573212615,IV,Atlanta
+D0096,"SC, Myrtle Beach-Conway [Urban core]",0.507951648,IV,Atlanta
+D0097,"SC, Charlotte-Concord, NC-SC-Columbia-Sumter-Orangeburg [Urban core]",0.548303525,IV,Atlanta
+D0099,"SC, Greenville County [Urban core]",0.536773589,IV,Atlanta
+D0100,"SC, Anderson County [Urban core]",0.520314932,IV,Atlanta
+D0101,"SC, Seneca [Suburban]",0.508767299,IV,Atlanta
+D0102,"SC, Edgefield County [Large rural]",0.550194569,IV,Atlanta
+D0103,"SC, Hilton Head Island-Bluffton-Port Royal [Suburban]",0.609666815,IV,Atlanta
+D0104,"SC, Beaufort County [Urban core]",0.519987084,IV,Atlanta
+D0105,"GA, DeKalb County [Urban core]",0.547693461,IV,Atlanta
+D0106,"GA, Fulton County [Urban core]",0.533545171,IV,Atlanta
+D0107,"GA, Cobb County [Urban core]",0.54213866,IV,Atlanta
+D0108,"GA, Gwinnett County [Urban core]",0.533130599,IV,Atlanta
+D0109,"GA, Newton County [Urban core]",0.539232339,IV,Atlanta
+D0110,"GA, Hall County [Urban core]",0.565722182,IV,Atlanta
+D0111,"GA, Marietta [Suburban]",0.545525098,IV,Atlanta
+D0112,"GA, Floyd County [Urban core]",0.558746878,IV,Atlanta
+D0113,"GA, Cherokee County [Urban core]",0.566683821,IV,Atlanta
+D0114,"GA, Atlanta-Sandy Springs-Roswell [Suburban]",0.526732137,IV,Atlanta
+D0115,"GA, Thomaston [Urban core]",0.555457268,IV,Atlanta
+D0116,"GA, Coweta County [Urban core]",0.548373523,IV,Atlanta
+D0117,"GA, Spalding County [Urban core]",0.535463339,IV,Atlanta
+D0118,"GA-AL, LaGrange [Suburban]",0.533145348,IV,Atlanta
+D0119,"GA, Clayton County [Urban core]",0.558824401,IV,Atlanta
+D0120,"GA, Vidalia [Suburban]",0.557336392,IV,Atlanta
+D0121,"GA, Dublin [Suburban]",0.566710346,IV,Atlanta
+D0122,"GA, Richmond County [Urban core]",0.608986074,IV,Atlanta
+D0123,"GA, Statesboro [Suburban]",0.580421421,IV,Atlanta
+D0124,"GA, Cornelia [Suburban]",0.565893787,IV,Atlanta
+D0125,"GA, Toccoa [Suburban]",0.558937673,IV,Atlanta
+D0126,"GA, Walton County [Urban core]",0.551715483,IV,Atlanta
+D0127,"GA, Milledgeville [Suburban]",0.547442362,IV,Atlanta
+D0128,"GA, Athens-Clarke County [Urban core]",0.554587215,IV,Atlanta
+D0129,"GA, Lincoln County [Large rural]",0.521707218,IV,Atlanta
+D0130,"GA, Dalton [Urban core]",0.520856767,IV,Atlanta
+D0131,"GA, Walker County [Urban core]",0.554667356,IV,Atlanta
+D0132,"GA, Warner Robins [Urban core]",0.576270186,IV,Atlanta
+D0133,"GA-AL, Columbus-Auburn-Opelika [Suburban]",0.584912506,IV,Atlanta
+D0134,"GA, Cordele [Suburban]",0.524276829,IV,Atlanta
+D0135,"GA, Macon-Bibb County [Urban core]",0.600377097,IV,Atlanta
+D0136,"GA, Muscogee County [Urban core]",0.537249601,IV,Atlanta
+D0137,"GA, Milledgeville [Large rural]",0.485112235,IV,Atlanta
+D0139,"GA, Chatham County [Urban core] [Central] One",0.555883314,IV,Atlanta
+D0140,"GA, Chatham County [Urban core] [Central] Two",0.523558948,IV,Atlanta
+D0141,"GA, Waycross [Suburban]",0.535460637,IV,Atlanta
+D0142,"GA, Jesup [Suburban]",0.614233269,IV,Atlanta
+D0143,"GA, Douglas [Suburban]",0.553180045,IV,Atlanta
+D0144,"GA, Glynn County [Urban core]",0.553000571,IV,Atlanta
+D0145,"FL, Duval County [Urban core] [Central] One",0.553899091,IV,Atlanta
+D0146,"GA, Brantley County [Urban core]",0.554320291,IV,Atlanta
+D0147,"GA, Valdosta [Urban core]",0.55600121,IV,Atlanta
+D0148,"GA, Tifton [Suburban]",0.554827535,IV,Atlanta
+D0149,"GA, Thomasville [Suburban]",0.584701747,IV,Atlanta
+D0150,"GA, Albany [Urban core]",0.580833759,IV,Atlanta
+D0151,"GA, Bainbridge, GA-Thomasville [Large rural]",0.539748214,IV,Atlanta
+D0152,"GA, Moultrie [Suburban]",0.557534155,IV,Atlanta
+D0154,"FL, Duval County [Urban core] [Central] Two",0.549157231,IV,Atlanta
+D0155,"FL, Gainesville-Lake City [Suburban]",0.567911765,IV,Atlanta
+D0156,"FL, St. Johns County [Urban core]",0.543842819,IV,Atlanta
+D0157,"FL, Gainesville [Urban core]",0.556018242,IV,Atlanta
+D0158,"FL, Tallahassee [Large rural]",0.52617291,IV,Atlanta
+D0159,"FL, Lake County [Urban core] [Outlying] One",0.59415959,IV,Atlanta
+D0160,"FL, Volusia County [Urban core] [Central] One",0.54374162,IV,Atlanta
+D0161,"FL-GA, Jacksonville-Kingsland-Palatka [Suburban]",0.551050952,IV,Atlanta
+D0162,"FL, Ocala [Urban core]",0.543535848,IV,Atlanta
+D0163,"FL, Volusia County [Urban core] [Central] Two",0.494500607,IV,Atlanta
+D0164,"FL, Leon County [Urban core]",0.547778423,IV,Atlanta
+D0165,"FL, Franklin County [Large rural]",0.572713437,IV,Atlanta
+D0166,"FL, Calhoun County [Urban core]",0.548243555,IV,Atlanta
+D0167,"FL, Wakulla County [Urban core]",0.529153235,IV,Atlanta
+D0168,"FL, Panama City-Panama City Beach [Urban core]",0.58255505,IV,Atlanta
+D0169,"FL, Panama City-Panama City Beach [Large rural]",0.531718379,IV,Atlanta
+D0170,"FL, Crestview-Fort Walton Beach-Destin [Urban core]",0.572887166,IV,Atlanta
+D0171,"FL, Pensacola-Ferry Pass-Brent [Urban core]",0.543906093,IV,Atlanta
+D0172,"FL, Orange County [Urban core] [Central] One",0.573887452,IV,Atlanta
+D0173,"FL, Brevard County [Urban core] [Central] One",0.524939005,IV,Atlanta
+D0174,"FL, Orange County [Urban core] [Central] Two",0.589636804,IV,Atlanta
+D0175,"FL, Brevard County [Urban core] [Central] Two",0.615047511,IV,Atlanta
+D0176,"FL, Brevard County [Urban core] [Central] Three",0.557302129,IV,Atlanta
+D0177,"FL, Sebastian-Vero Beach-West Vero Corridor [Urban core]",0.551583085,IV,Atlanta
+D0178,"FL, Miami-Port St. Lucie-Fort Lauderdale [Suburban]",0.543777868,IV,Atlanta
+D0179,"FL, Broward County [Urban core] [Central] One",0.571676055,IV,Atlanta
+D0180,"FL, Miami-Dade County [Urban core] [Central] One",0.563927815,IV,Atlanta
+D0181,"FL, Miami-Dade County [Urban core] [Central] Two",0.554484255,IV,Atlanta
+D0182,"FL, Broward County [Urban core] [Central] Two",0.558667242,IV,Atlanta
+D0183,"FL, Palm Beach County [Urban core]",0.481105253,IV,Atlanta
+D0184,"FL, Cape Coral-Fort Myers [Urban core]",0.536036168,IV,Atlanta
+D0185,"FL, Port St. Lucie [Urban core]",0.546929278,IV,Atlanta
+D0186,"FL, Hillsborough County [Urban core] [Central] One",0.534940862,IV,Atlanta
+D0187,"FL, Pasco County [Urban core] [Central] One",0.54220198,IV,Atlanta
+D0188,"FL, Hillsborough County [Urban core] [Central] Two",0.560763434,IV,Atlanta
+D0189,"FL, Hillsborough County [Urban core] [Central] Three",0.569518612,IV,Atlanta
+D0190,"FL, Pinellas County [Urban core] [Central] One",0.56951963,IV,Atlanta
+D0191,"FL, Pinellas County [Urban core] [Central] Two",0.558852501,IV,Atlanta
+D0192,"FL, Polk County [Urban core] [Central] One",0.585989763,IV,Atlanta
+D0193,"FL, Polk County [Urban core] [Central] Two",0.574848146,IV,Atlanta
+D0194,"FL, Sebring [Urban core]",0.547833908,IV,Atlanta
+D0195,"FL, Sarasota County [Urban core]",0.497348964,IV,Atlanta
+D0196,"FL, Punta Gorda [Urban core]",0.539979678,IV,Atlanta
+D0197,"FL, Naples-Marco Island [Urban core]",0.544408877,IV,Atlanta
+D0198,"FL, Manatee County [Urban core]",0.521398182,IV,Atlanta
+D0199,"FL, Homosassa Springs [Urban core]",0.52637318,IV,Atlanta
+D0200,"FL, Hernando County [Urban core]",0.564620901,IV,Atlanta
+D0201,"FL, Pasco County [Urban core] [Central] Two",0.547728328,IV,Atlanta
+D0202,"FL, Lake County [Urban core] [Outlying] Two",0.578041881,IV,Atlanta
+D0203,"AL, Jefferson County [Urban core] [Central] One",0.567030833,IV,Atlanta
+D0204,"AL, Jefferson County [Urban core] [Central] Two",0.571391886,IV,Atlanta
+D0205,"AL, Shelby County [Urban core]",0.538211959,IV,Atlanta
+D0206,"GA-AL, Columbus-Auburn-Opelika [Large rural]",0.543586397,IV,Atlanta
+D0207,"AL, Talladega-Sylacauga [Suburban]",0.528487391,IV,Atlanta
+D0208,"AL, Albertville [Suburban]",0.513697616,IV,Atlanta
+D0209,"AL, Cullman [Suburban]",0.541525406,IV,Atlanta
+D0210,"AL, St. Clair County [Urban core]",0.554140599,IV,Atlanta
+D0211,"AL, Bibb County [Urban core]",0.527721459,IV,Atlanta
+D0212,"AL, Walker County [Urban core]",0.549474099,IV,Atlanta
+D0213,"AL, Tuscaloosa County [Urban core]",0.546533659,IV,Atlanta
+D0214,"AL, Montgomery-Selma [Small town/rural]",0.556910671,IV,Atlanta
+D0215,"AL, Pickens County [Urban core]",0.531821032,IV,Atlanta
+D0216,"AL, Clarke County-Lauderdale County [Suburban]",0.55798939,IV,Atlanta
+D0217,"AL-TN, Birmingham-Cullman-Talladega, AL-Huntsville-Decatur-Albertville [Small town/rural]",0.545853602,IV,Atlanta
+D0218,"AL, Birmingham-Cullman-Talladega [Large rural]",0.505419869,IV,Atlanta
+D0219,"AL, Colbert County [Urban core]",0.487256992,IV,Atlanta
+D0220,"AL, Florence-Muscle Shoals-Russellville [Small town/rural]",0.536971228,IV,Atlanta
+D0221,"AL, Decatur [Urban core]",0.495189826,IV,Atlanta
+D0222,"AL, Huntsville [Suburban]",0.521458707,IV,Atlanta
+D0223,"AL, Lauderdale County [Urban core]",0.51093024,IV,Atlanta
+D0224,"AL, Huntsville [Urban core]",0.526694028,IV,Atlanta
+D0225,"AL, Scottsboro [Suburban]",0.542491289,IV,Atlanta
+D0226,"AL, Gadsden [Urban core]",0.525006085,IV,Atlanta
+D0227,"AL, Fort Payne [Urban core]",0.477195913,IV,Atlanta
+D0228,"AL-TN, Huntsville-Decatur-Albertville [Small town/rural]",0.566074309,IV,Atlanta
+D0229,"AL, Elmore County [Urban core]",0.54063936,IV,Atlanta
+D0230,"AL, Troy [Suburban]",0.574378533,IV,Atlanta
+D0232,"AL, Houston County [Urban core]",0.502277974,IV,Atlanta
+D0233,"AL, Dothan [Large rural]",0.499687687,IV,Atlanta
+D0234,"AL, Montgomery County [Urban core]",0.523698434,IV,Atlanta
+D0235,"AL, Auburn-Opelika [Urban core]",0.49223139,IV,Atlanta
+D0236,"AL, Anniston-Oxford [Urban core]",0.519098835,IV,Atlanta
+D0237,"AL, Alexander City [Urban core]",0.512307184,IV,Atlanta
+D0238,"GA-AL, Atlanta--Athens-Clarke County--Sandy Springs [Large rural]",0.51188437,IV,Atlanta
+D0239,"AL, Enterprise [Suburban]",0.500605231,IV,Atlanta
+D0240,"AL, Escambia County [Large rural]",0.517922606,IV,Atlanta
+D0241,"AL, Daphne-Fairhope-Foley [Large rural]",0.526053917,IV,Atlanta
+D0242,"AL, Mobile [Large rural]",0.524315062,IV,Atlanta
+D0243,"AL, Daphne-Fairhope-Foley [Urban core]",0.573370293,IV,Atlanta
+D0244,"AL, Mobile County [Urban core]",0.563963708,IV,Atlanta
+D0245,"AL, Washington County [Urban core]",0.532165932,IV,Atlanta
+D0246,"AL, Mobile-Daphne-Fairhope [Suburban]",0.52490807,IV,Atlanta
+D0247,"AL, Hale County [Large rural]",0.542315546,IV,Atlanta
+D0248,"AL, Choctaw County [Small town/rural]",0.532229173,IV,Atlanta
+D0249,"AL, Russell County [Urban core]",0.557592816,IV,Atlanta
+D0250,"TN, Robertson County [Urban core]",0.559411821,IV,Atlanta
+D0251,"TN, Cannon County [Large rural]",0.566187889,IV,Atlanta
+D0252,"TN, Davidson County [Urban core] [Central] One",0.536006106,IV,Atlanta
+D0253,"TN, Williamson County [Urban core]",0.568272868,IV,Atlanta
+D0254,"TN, Davidson County [Urban core] [Central] Two",0.57156957,IV,Atlanta
+D0255,"TN, Rutherford County [Urban core]",0.583510934,IV,Atlanta
+D0256,"TN, Maury County [Suburban]",0.596856133,IV,Atlanta
+D0257,"TN-KY, Clarksville [Urban core]",0.576971498,IV,Atlanta
+D0258,"TN, Dickson County [Suburban]",0.554925326,IV,Atlanta
+D0259,"TN, Wilson County [Suburban]",0.551734962,IV,Atlanta
+D0260,"TN, Hickman County [Large rural]",0.559889303,IV,Atlanta
+D0261,"TN, Lincoln County [Large rural]",0.547443328,IV,Atlanta
+D0262,"TN, Tullahoma-Manchester [Suburban]",0.568935554,IV,Atlanta
+D0263,"TN, Winchester [Suburban]",0.544128235,IV,Atlanta
+D0264,"TN, Hamilton County [Urban core]",0.548671673,IV,Atlanta
+D0265,"TN, Athens [Large rural]",0.569563152,IV,Atlanta
+D0266,"TN, Cleveland [Urban core]",0.535876096,IV,Atlanta
+D0267,"TN, Polk County [Small town/rural]",0.574803249,IV,Atlanta
+D0268,"TN, Athens [Suburban]",0.535743524,IV,Atlanta
+D0269,"TN, Johnson City [Urban core]",0.625999509,IV,Atlanta
+D0270,"TN-VA, Johnson City-Kingsport-Bristol [Suburban]",0.612809619,IV,Atlanta
+D0271,"TN, Sullivan County [Urban core]",0.590863303,IV,Atlanta
+D0272,"TN, Johnson City [Large rural]",0.568103886,IV,Atlanta
+D0273,"TN, Blount County [Urban core]",0.554967436,IV,Atlanta
+D0274,"TN, Knox County [Urban core] [Central] One",0.545699846,IV,Atlanta
+D0275,"TN, Morristown [Urban core]",0.577012481,IV,Atlanta
+D0276,"TN, Knox County [Urban core] [Central] Two",0.518985584,IV,Atlanta
+D0277,"TN, Knoxville-Morristown-Sevierville [Suburban]",0.543430893,IV,Atlanta
+D0278,"TN, Campbell County [Urban core]",0.562495822,IV,Atlanta
+D0279,"TN, Crossville [Suburban]",0.539731907,IV,Atlanta
+D0280,"TN, Morgan County [Urban core]",0.55226758,IV,Atlanta
+D0281,"TN, Knoxville-Morristown-Sevierville [Large rural]",0.542423649,IV,Atlanta
+D0282,"TN, Jackson [Urban core]",0.557895145,IV,Atlanta
+D0283,"TN, Shelby County [Urban core] [Central] One",0.543821524,IV,Atlanta
+D0284,"TN, Tipton County [Urban core]",0.517675229,IV,Atlanta
+D0285,"TN, Dyersburg [Suburban]",0.541285607,IV,Atlanta
+D0287,"TN, Chester County [Large rural]",0.577045759,IV,Atlanta
+D0288,"TN, Shelby County [Urban core] [Central] Two",0.539872469,IV,Atlanta
+D0289,"TN, Union City-Martin [Large rural]",0.572086844,IV,Atlanta
+D0290,"TN, Paris [Suburban]",0.538349156,IV,Atlanta
+D0291,"TN, Martin [Suburban]",0.535936349,IV,Atlanta
+D0292,"KY, Mayfield [Suburban]",0.567490383,IV,Atlanta
+D0293,"TN, Carroll County [Small town/rural]",0.550681011,IV,Atlanta
+D0294,"TN, Decatur County-Henderson County [Small town/rural]",0.569483549,IV,Atlanta
+D0295,"TN, Nashville-Davidson--Murfreesboro [Small town/rural]",0.520597874,IV,Atlanta
+D0296,"TN, Lawrenceburg [Suburban]",0.559706727,IV,Atlanta
+D0297,"TN, Giles County [Large rural]",0.549008845,IV,Atlanta
+D0298,"TN, Cookeville [Suburban]",0.560026299,IV,Atlanta
+D0299,"TN, Cookeville [Small town/rural]",0.557750599,IV,Atlanta
+D0300,"TN, Overton County [Large rural]",0.558975545,IV,Atlanta
+D0301,"TN, White County [Large rural]",0.532678164,IV,Atlanta
+D0303,"MS, Lafayette County [Urban core]",0.551053261,IV,Atlanta
+D0304,"MS, Benton County [Large rural]",0.559211856,IV,Atlanta
+D0305,"MS, DeSoto County [Urban core]",0.557427031,IV,Atlanta
+D0306,"MS, Greenwood [Suburban]",0.551209244,IV,Atlanta
+D0307,"MS, Greenwood [Large rural]",0.568428179,IV,Atlanta
+D0308,"MS, Clarksdale [Small town/rural]",0.519134075,IV,Atlanta
+D0309,"MS, Corinth [Suburban]",0.574634728,IV,Atlanta
+D0310,"MS, Washington County [Suburban]",0.569923978,IV,Atlanta
+D0311,"MS, Sharkey County [Suburban]",0.518048785,IV,Atlanta
+D0312,"MS, Cleveland [Suburban]",0.512995143,IV,Atlanta
+D0313,"MS, Tupelo [Suburban]",0.501462157,IV,Atlanta
+D0314,"MS, Itawamba County [Large rural]",0.518889693,IV,Atlanta
+D0315,"MS, Oxford [Large rural]",0.537740817,IV,Atlanta
+D0316,"MS, Grenada [Large rural]",0.595111849,IV,Atlanta
+D0317,"MS, Hinds County [Urban core]",0.580578738,IV,Atlanta
+D0318,"MS, Simpson County [Urban core]",0.540562654,IV,Atlanta
+D0319,"MS, Holmes County [Urban core]",0.54863168,IV,Atlanta
+D0320,"MS, Jackson-Vicksburg-Brookhaven [Large rural]",0.540370809,IV,Atlanta
+D0321,"MS, Brookhaven [Suburban]",0.563300818,IV,Atlanta
+D0322,"MS, Vicksburg [Suburban]",0.552082829,IV,Atlanta
+D0323,"MS, Starkville [Suburban]",0.536687829,IV,Atlanta
+D0324,"MS, Covington County [Urban core]",0.5259411,IV,Atlanta
+D0325,"MS, McComb [Urban core]",0.526471607,IV,Atlanta
+D0326,"MS, Jones County [Suburban]",0.509925272,IV,Atlanta
+D0327,"MS, Lauderdale County [Suburban]",0.552948517,IV,Atlanta
+D0328,"MS, Meridian [Large rural]",0.520367537,IV,Atlanta
+D0329,"MS, Clarke County [Suburban]",0.54111604,IV,Atlanta
+D0330,"MS, Jasper County [Suburban]",0.532354293,IV,Atlanta
+D0331,"MS, Noxubee County [Suburban]",0.488560907,IV,Atlanta
+D0332,"MS, Hattiesburg [Urban core]",0.557877286,IV,Atlanta
+D0333,"MS, Hattiesburg-Laurel [Large rural]",0.531036516,IV,Atlanta
+D0334,"MS, Harrison County [Urban core]",0.568887941,IV,Atlanta
+D0335,"MS, Jackson County [Urban core]",0.580078221,IV,Atlanta
+D0337,"MS, Wilkinson County [Small town/rural]",0.589477818,IV,Atlanta
+D0338,"MS, McComb [Suburban]",0.590149382,IV,Atlanta
+D0339,"MS, Lowndes County [Suburban]",0.55490759,IV,Atlanta
+D0340,"MS, Starkville-Columbus [Small town/rural]",0.554843364,IV,Atlanta
+D0341,"MS, Starkville [Large rural]",0.559138521,IV,Atlanta
+D0342,"GA, Henry County [Urban core]",0.521029837,IV,Atlanta
+D0343,"FL-GA, Tallahassee-Bainbridge [Suburban]",0.534006387,IV,Atlanta
+D0344,"GA, Thomasville [Large rural]",0.558751939,IV,Atlanta
+D0345,"GA, Bainbridge [Large rural]",0.569193975,IV,Atlanta
+D0346,"KY, Jefferson County [Urban core] [Central] One",0.503071514,IV,Atlanta
+D0347,"KY-IN, Louisville/Jefferson County [Suburban]",0.503456137,IV,Atlanta
+D0348,"KY, Edmonson County [Large rural]",0.526932474,IV,Atlanta
+D0350,"KY, Elizabethtown [Urban core]",0.520003084,IV,Atlanta
+D0351,"KY, Jefferson County [Urban core] [Central] Two",0.531595312,IV,Atlanta
+D0352,"KY, Meade County [Urban core]",0.546813636,IV,Atlanta
+D0353,"KY, Danville [Suburban]",0.550994476,IV,Atlanta
+D0354,"KY, Lexington-Fayette--Richmond--Frankfort [Urban core]",0.556043375,IV,Atlanta
+D0355,"KY, Lexington-Fayette--Richmond--Frankfort [Large rural]",0.524587596,IV,Atlanta
+D0356,"KY, Mount Sterling [Suburban]",0.541126886,IV,Atlanta
+D0357,"KY, Gallatin County [Urban core]",0.545994081,IV,Atlanta
+D0358,"KY, Richmond-Berea [Suburban]",0.577079404,IV,Atlanta
+D0359,"KY, Whitley County [Suburban]",0.587324382,IV,Atlanta
+D0360,"KY, Laurel County [Suburban]",0.56142111,IV,Atlanta
+D0361,"KY, Knox County [Large rural]",0.589498374,IV,Atlanta
+D0362,"KY, Harlan County [Large rural]",0.618742742,IV,Atlanta
+D0363,"KY, Middlesborough [Small town/rural]",0.573924562,IV,Atlanta
+D0364,"KY, Letcher County [Small town/rural]",0.579635372,IV,Atlanta
+D0365,"KY, Corbin [Small town/rural]",0.579515437,IV,Atlanta
+D0366,"KY, Clay County [Large rural]",0.560365143,IV,Atlanta
+D0367,"KY, Kenton County [Urban core]",0.537849553,IV,Atlanta
+D0368,"OH-KY-IN, Cincinnati [Suburban]",0.569547235,IV,Atlanta
+D0369,"KY, Fleming County [Large rural]",0.51615529,IV,Atlanta
+D0370,"KY, Greenup County [Urban core]",0.542034381,IV,Atlanta
+D0371,"KY, Carter County [Urban core]",0.567879274,IV,Atlanta
+D0372,"KY, Lawrence County [Urban core]",0.577118422,IV,Atlanta
+D0373,"KY, Floyd County [Small town/rural]",0.596728816,IV,Atlanta
+D0374,"KY, Lexington-Fayette--Richmond--Frankfort [Small town/rural]",0.551822506,IV,Atlanta
+D0375,"KY, Breathitt County [Large rural]",0.551367124,IV,Atlanta
+D0376,"KY, Pike County [Large rural]",0.571273987,IV,Atlanta
+D0377,"KY, Pike County [Small town/rural]",0.562497153,IV,Atlanta
+D0378,"KY, Floyd County [Large rural]",0.591427479,IV,Atlanta
+D0379,"KY, Perry County [Large rural]",0.579783192,IV,Atlanta
+D0380,"KY, McCracken County [Suburban]",0.590513292,IV,Atlanta
+D0381,"KY, Murray [Suburban]",0.567375368,IV,Atlanta
+D0382,"KY, Ballard County [Suburban]",0.560999999,IV,Atlanta
+D0383,"KY-IL, Paducah-Mayfield [Large rural]",0.521016623,IV,Atlanta
+D0384,"KY, Bowling Green-Glasgow-Franklin [Urban core]",0.572362754,IV,Atlanta
+D0385,"KY, Bowling Green-Glasgow-Franklin [Suburban]",0.568169339,IV,Atlanta
+D0386,"SC, Greenville-Anderson-Greer [Suburban]",0.557359231,IV,Atlanta
+D0387,"TN-KY, Clarksville [Suburban]",0.560315849,IV,Atlanta
+D0388,"KY, Owensboro [Urban core]",0.546059613,IV,Atlanta
+D0389,"KY, Butler County [Large rural]",0.518285478,IV,Atlanta
+D0390,"KY, Owensboro [Large rural]",0.529611401,IV,Atlanta
+D0391,"KY, Madisonville [Suburban]",0.551871173,IV,Atlanta
+D0392,"KY, Henderson [Urban core]",0.560967371,IV,Atlanta
+D0393,"KY, Henderson [Large rural]",0.580550314,IV,Atlanta
+D0394,"KY, Somerset [Suburban]",0.581334337,IV,Atlanta
+E0001,"OH, Chillicothe [Suburban]",0.527411641,V,Chicago
+E0002,"OH, Franklin County [Urban core] [Central] One",0.52484993,V,Chicago
+E0003,"OH, Springfield [Urban core]",0.542943064,V,Chicago
+E0004,"IL, Cook County [Urban core] [Central] One",0.540677435,V,Chicago
+E0005,"OH, Franklin County [Urban core] [Central] Two",0.527565331,V,Chicago
+E0006,"OH, Union County [Urban core]",0.544412477,V,Chicago
+E0007,"OH, Columbus [Suburban]",0.502866786,V,Chicago
+E0008,"OH, Marion [Suburban]",0.502733625,V,Chicago
+E0009,"OH, Lima-Van Wert-Celina [Urban core]",0.523314101,V,Chicago
+E0010,"OH, Findlay-Tiffin [Suburban]",0.522397488,V,Chicago
+E0011,"OH, Mansfield-Ashland-Bucyrus [Large rural]",0.517622191,V,Chicago
+E0012,"OH, Lucas County [Urban core] [Central]",0.539035664,V,Chicago
+E0013,"OH, Erie County [Suburban] [Central] One",0.575084214,V,Chicago
+E0014,"OH, Cleveland-Akron-Canton [Urban core] [Central]",0.52570033,V,Chicago
+E0015,"OH, Williams County [Large rural]",0.51181658,V,Chicago
+E0016,"OH, Defiance [Suburban]",0.525528592,V,Chicago
+E0017,"OH, Henry County [Large rural]",0.534309827,V,Chicago
+E0018,"OH, Zanesville [Suburban]",0.516743698,V,Chicago
+E0019,"OH, Cambridge [Suburban]",0.552916381,V,Chicago
+E0020,"OH, Monroe County [Urban core]",0.563098307,V,Chicago
+E0021,"OH, Belmont County [Urban core]",0.525899194,V,Chicago
+E0022,"WV-OH, Parkersburg-Marietta-Vienna [Suburban]",0.551612158,V,Chicago
+E0023,"OH, New Philadelphia-Dover [Suburban]",0.559508262,V,Chicago
+E0024,"OH, Jefferson County [Urban core]",0.56242013,V,Chicago
+E0025,"OH, Youngstown-Warren-Salem [Suburban]",0.564623231,V,Chicago
+E0026,"OH, Lorain County [Urban core]",0.546843333,V,Chicago
+E0027,"OH, Cleveland [Suburban]",0.551279977,V,Chicago
+E0028,"OH, Cuyahoga County [Urban core]",0.535137542,V,Chicago
+E0029,"OH, Geauga County [Urban core]",0.522278796,V,Chicago
+E0030,"OH, Youngstown-Warren-Salem [Urban core]",0.545923551,V,Chicago
+E0031,"OH, Portage County [Urban core]",0.519304775,V,Chicago
+E0032,"OH, Summit County [Urban core]",0.560623701,V,Chicago
+E0033,"OH, Wooster [Suburban]",0.565358738,V,Chicago
+E0034,"OH, Medina County [Urban core]",0.566659743,V,Chicago
+E0035,"OH, Canton-Massillon [Suburban]",0.583443096,V,Chicago
+E0036,"OH, Canton-Massillon [Urban core]",0.575265102,V,Chicago
+E0038,"OH, Mansfield-Ashland-Bucyrus [Urban core]",0.535470614,V,Chicago
+E0039,"OH, Erie County [Suburban] [Central] Two",0.545248982,V,Chicago
+E0040,"OH, Hamilton County [Urban core]",0.517460721,V,Chicago
+E0041,"OH, Montgomery County [Urban core] [Central] One",0.541968389,V,Chicago
+E0042,"OH, Montgomery County [Urban core] [Central] Two",0.534341232,V,Chicago
+E0043,"OH, Brown County [Urban core]",0.516320486,V,Chicago
+E0044,"OH, Wilmington [Suburban]",0.592419024,V,Chicago
+E0045,"OH, Portsmouth [Small town/rural]",0.534861041,V,Chicago
+E0046,"OH, Dayton-Springfield-Kettering [Suburban]",0.591474623,V,Chicago
+E0047,"IN, Richmond-Connersville [Suburban]",0.557685147,V,Chicago
+E0048,"OH, Gallipolis [Suburban]",0.594300822,V,Chicago
+E0049,"OH, Portsmouth [Suburban]",0.543005839,V,Chicago
+E0050,"OH, Athens [Suburban]",0.536369869,V,Chicago
+E0051,"OH, Celina [Suburban]",0.586638328,V,Chicago
+E0052,"OH, Lima [Large rural]",0.519561954,V,Chicago
+E0053,"OH, Van Wert [Suburban]",0.503845214,V,Chicago
+E0054,"OH, Wapakoneta [Large rural]",0.55175877,V,Chicago
+E0055,"IN, Madison County [Urban core]",0.552020836,V,Chicago
+E0056,"IN, Marion County [Urban core]",0.55275852,V,Chicago
+E0057,"IN, Clinton County [Suburban]",0.566847172,V,Chicago
+E0058,"IN, Indianapolis-Carmel-Muncie [Large rural]",0.558793746,V,Chicago
+E0059,"IN, Greencastle [Urban core]",0.53218411,V,Chicago
+E0060,"IN, Shelby County [Suburban]",0.568966891,V,Chicago
+E0061,"IN, Lake County [Urban core] [Central] One",0.574337682,V,Chicago
+E0062,"IN, Lake County [Urban core] [Central] Two",0.584153433,V,Chicago
+E0063,"IN, Michigan City-La Porte [Urban core]",0.512143559,V,Chicago
+E0064,"IN, Plymouth [Suburban]",0.579716008,V,Chicago
+E0065,"IN-MI, South Bend-Mishawaka [Urban core]",0.543248837,V,Chicago
+E0066,"IN, Warsaw [Suburban]",0.580394845,V,Chicago
+E0067,"IN, Elkhart-Goshen [Urban core]",0.55348908,V,Chicago
+E0068,"IN, Kendallville [Suburban]",0.564917858,V,Chicago
+E0069,"IN, Angola [Suburban]",0.563557074,V,Chicago
+E0071,"IN, Fort Wayne-Huntington-Auburn [Large rural]",0.555932955,V,Chicago
+E0072,"IN, Fort Wayne-Huntington-Auburn [Urban core]",0.538616745,V,Chicago
+E0073,"IN, Kokomo [Urban core]",0.563091476,V,Chicago
+E0074,"IN, Tippecanoe County [Urban core]",0.56294097,V,Chicago
+E0075,"IN, Wabash [Suburban]",0.564347394,V,Chicago
+E0076,"IN, Dearborn County [Urban core]",0.561180671,V,Chicago
+E0077,"IN, Franklin County [Urban core]",0.512061354,V,Chicago
+E0078,"IN, Madison [Suburban]",0.578732231,V,Chicago
+E0079,"IN, Clark County [Urban core]",0.552734811,V,Chicago
+E0080,"IN, Columbus [Urban core]",0.547955677,V,Chicago
+E0081,"IN, Bloomington-Bedford [Suburban]",0.502187037,V,Chicago
+E0082,"IN, Muncie [Urban core]",0.569205055,V,Chicago
+E0083,"IN, New Castle [Suburban]",0.525329237,V,Chicago
+E0084,"IN, Monroe County [Urban core]",0.492660653,V,Chicago
+E0085,"IN, Washington [Urban core]",0.563640067,V,Chicago
+E0086,"IN, Terre Haute [Urban core]",0.571988737,V,Chicago
+E0087,"IN, Vincennes [Suburban]",0.578626106,V,Chicago
+E0088,"IN, Jasper [Suburban]",0.566177908,V,Chicago
+E0089,"IN, Evansville [Urban core]",0.56458399,V,Chicago
+E0090,"IN, Evansville [Large rural]",0.584007267,V,Chicago
+E0091,"IN, Jasper [Large rural]",0.592863539,V,Chicago
+E0092,"IN, Warren County [Urban core]",0.575502334,V,Chicago
+E0093,"IN, Lake County-Porter County-Jasper County [Large rural]",0.556015097,V,Chicago
+E0094,"MI, Wayne County [Urban core] [Central]",0.5472316,V,Chicago
+E0095,"MI, St. Clair County [Urban core]",0.548288407,V,Chicago
+E0096,"MI, Oakland County [Urban core] [Central] One",0.533234625,V,Chicago
+E0097,"MI, Detroit-Dearborn-Livonia [Urban core] [Central]",0.583781816,V,Chicago
+E0098,"MI, Ann Arbor [Urban core]",0.507007668,V,Chicago
+E0099,"MI, Oakland County [Urban core] [Central] Two",0.500193666,V,Chicago
+E0100,"MI, Monroe [Urban core]",0.543983808,V,Chicago
+E0101,"MI, Adrian [Suburban]",0.554041481,V,Chicago
+E0102,"MI, Oakland County [Urban core] [Central] Three",0.556062005,V,Chicago
+E0103,"MI, Warren-Troy-Farmington Hills [Small town/rural]",0.552409367,V,Chicago
+E0104,"MI, Flint [Urban core]",0.533906793,V,Chicago
+E0105,"MI, Huron County [Small town/rural]",0.502399089,V,Chicago
+E0106,"MI, Saginaw [Urban core]",0.557127525,V,Chicago
+E0107,"MI, Saginaw-Midland-Bay City [Small town/rural]",0.519631803,V,Chicago
+E0108,"MI, Bay City [Urban core]",0.559127954,V,Chicago
+E0109,"MI, Midland [Urban core]",0.565253731,V,Chicago
+E0110,"MI, Traverse City [Large rural]",0.529784065,V,Chicago
+E0111,"MI, Alpena [Suburban]",0.528277238,V,Chicago
+E0112,"MI, Grand Rapids-Wyoming [Small town/rural]",0.562360855,V,Chicago
+E0113,"MI, Ingham County [Urban core]",0.49838353,V,Chicago
+E0114,"MI, Kent County [Urban core]",0.525695179,V,Chicago
+E0115,"MI, Eaton County [Urban core]",0.549662047,V,Chicago
+E0116,"MI, Grand Rapids-Wyoming [Large rural]",0.524503051,V,Chicago
+E0117,"MI, Kalamazoo-Portage [Urban core]",0.551804563,V,Chicago
+E0118,"MI, Battle Creek [Urban core]",0.526353462,V,Chicago
+E0119,"MI, Niles [Urban core]",0.540610674,V,Chicago
+E0120,"MI, Coldwater [Suburban]",0.552173222,V,Chicago
+E0121,"MI, Sturgis [Suburban]",0.533419962,V,Chicago
+E0122,"MI, Jackson [Urban core]",0.513780579,V,Chicago
+E0123,"MI, Hillsdale [Suburban]",0.526511165,V,Chicago
+E0124,"MI, Grand Rapids-Wyoming [Suburban]",0.545292407,V,Chicago
+E0125,"MI, Newaygo County [Urban core]",0.535894428,V,Chicago
+E0126,"MI, Ludington [Suburban]",0.549691721,V,Chicago
+E0127,"MI, Ottawa County [Urban core]",0.473383118,V,Chicago
+E0128,"MI, Muskegon-Norton Shores [Urban core]",0.539771872,V,Chicago
+E0129,"MI, Cadillac [Suburban]",0.510189551,V,Chicago
+E0130,"MI, Traverse City [Suburban]",0.517082092,V,Chicago
+E0131,"MI, Ludington [Large rural]",0.550491919,V,Chicago
+E0132,"MI, Alpena [Small town/rural]",0.523520212,V,Chicago
+E0133,"MI, Petoskey [Large rural]",0.554623351,V,Chicago
+E0134,"MI, Sault Ste. Marie [Suburban]",0.56657104,V,Chicago
+E0135,"MI, Sault Ste. Marie [Large rural]",0.56108421,V,Chicago
+E0136,"MI-WI, Iron Mountain [Suburban]",0.579023506,V,Chicago
+E0137,"MI, Escanaba [Suburban]",0.590818232,V,Chicago
+E0138,"MI, Marquette [Suburban]",0.540746214,V,Chicago
+E0139,"MI, Alger County [Large rural]",0.550122039,V,Chicago
+E0140,"MI, Schoolcraft County [Large rural]",0.552462964,V,Chicago
+E0141,"WI-MI, Marinette [Suburban]",0.524364067,V,Chicago
+E0142,"MI, Houghton [Suburban]",0.643325804,V,Chicago
+E0143,"MI, Baraga County [Small town/rural]",0.566486531,V,Chicago
+E0144,"MI, Gogebic County [Large rural]",0.588730968,V,Chicago
+E0145,"MI, Ontonagon County [Small town/rural]",0.557605988,V,Chicago
+E0146,"WI, Sheboygan [Urban core]",0.555070224,V,Chicago
+E0147,"WI, Washington County [Urban core]",0.501002847,V,Chicago
+E0148,"WI, Milwaukee County [Urban core] [Central] One",0.565010034,V,Chicago
+E0149,"WI, Green Bay-Shawano [Suburban]",0.534472129,V,Chicago
+E0150,"WI, Waukesha County [Urban core]",0.573435859,V,Chicago
+E0151,"WI, Milwaukee County [Urban core] [Central] Two",0.530407923,V,Chicago
+E0152,"WI, Milwaukee-Racine-Waukesha [Large rural]",0.582020842,V,Chicago
+E0153,"WI, Watertown-Fort Atkinson [Suburban]",0.524631639,V,Chicago
+E0154,"WI, Fond du Lac [Urban core]",0.604148576,V,Chicago
+E0155,"WI, Kenosha [Urban core]",0.525227311,V,Chicago
+E0156,"WI, Racine-Mount Pleasant [Urban core]",0.535157683,V,Chicago
+E0157,"WI, Rock County [Urban core] [Central] One",0.526309767,V,Chicago
+E0158,"WI, Sauk County [Large rural] [Central] One",0.584780328,V,Chicago
+E0159,"IL, Freeport [Suburban]",0.544400821,V,Chicago
+E0160,"WI, Madison [Urban core]",0.515001057,V,Chicago
+E0161,"WI, Platteville [Small town/rural]",0.558620791,V,Chicago
+E0162,"WI, Sauk County [Large rural] [Central] Two",0.534902971,V,Chicago
+E0163,"MN, Jackson County [Large rural]",0.583633913,V,Chicago
+E0164,"WI, Columbia County [Small town/rural]",0.5880666,V,Chicago
+E0165,"WI-MN, La Crosse-Onalaska-Sparta [Large rural]",0.518043022,V,Chicago
+E0166,"WI, Eau Claire-Menomonie [Suburban]",0.527259001,V,Chicago
+E0167,"WI, St. Croix County [Small town/rural]",0.570254475,V,Chicago
+E0168,"WI, Green Bay-Shawano [Urban core]",0.543330254,V,Chicago
+E0169,"WI, Appleton [Urban core]",0.560396498,V,Chicago
+E0170,"WI, Green Bay-Shawano [Small town/rural]",0.53172447,V,Chicago
+E0171,"WI, Green Bay-Shawano [Large rural]",0.574206023,V,Chicago
+E0172,"WI, Wausau-Stevens Point-Wisconsin Rapids [Urban core]",0.557296375,V,Chicago
+E0173,"WI, Stevens Point-Plover [Suburban]",0.563786731,V,Chicago
+E0174,"WI, Wausau [Suburban]",0.550591074,V,Chicago
+E0175,"WI, Price County [Small town/rural]",0.545187784,V,Chicago
+E0176,"WI, Oneida County [Small town/rural]",0.535610095,V,Chicago
+E0177,"WI-MN, La Crosse-Onalaska-Sparta [Urban core]",0.580655036,V,Chicago
+E0178,"MN, Rochester-Austin-Winona [Small town/rural]",0.541352954,V,Chicago
+E0179,"WI, Trempealeau County [Small town/rural]",0.549970226,V,Chicago
+E0180,"MN, Rochester-Austin-Winona [Suburban]",0.523739523,V,Chicago
+E0181,"WI, Eau Claire County [Urban core]",0.499236195,V,Chicago
+E0182,"WI, Chippewa County [Urban core]",0.524474516,V,Chicago
+E0183,"WI, Eau Claire [Large rural]",0.5471335,V,Chicago
+E0184,"WI, Rice Lake [Large rural]",0.591792608,V,Chicago
+E0185,"WI, Trempealeau County [Urban core]",0.500648924,V,Chicago
+E0187,"WI, Bayfield County [Large rural]",0.550936563,V,Chicago
+E0188,"WI, Douglas County [Small town/rural]",0.563428404,V,Chicago
+E0189,"WI, Appleton-Oshkosh-Neenah [Large rural]",0.54336537,V,Chicago
+E0190,"MN, Ramsey County [Urban core]",0.494254219,V,Chicago
+E0191,"MN, Isanti County [Urban core]",0.538666279,V,Chicago
+E0192,"MN, Hennepin County [Urban core] [Central] One",0.503066526,V,Chicago
+E0193,"MN, Chisago County [Urban core]",0.512758696,V,Chicago
+E0194,"MN, Hennepin County [Urban core] [Central] Two",0.491750434,V,Chicago
+E0195,"MN, Hutchinson [Suburban]",0.551480815,V,Chicago
+E0196,"MN, St. Cloud [Urban core]",0.494335274,V,Chicago
+E0197,"MN, Mankato-New Ulm [Small town/rural]",0.543548956,V,Chicago
+E0198,"MN, Hennepin County [Urban core] [Central] Three",0.487070138,V,Chicago
+E0199,"MN, Carver County [Urban core]",0.555176418,V,Chicago
+E0200,"MN, Scott County [Urban core]",0.540712859,V,Chicago
+E0201,"MN, Hennepin County [Urban core] [Central] Four",0.534086751,V,Chicago
+E0202,"MN-WI, Duluth [Large rural]",0.556445208,V,Chicago
+E0203,"MN, St. Louis County [Suburban] [Central] One",0.526700803,V,Chicago
+E0204,"MN, St. Louis County [Suburban] [Central] Two",0.585742102,V,Chicago
+E0205,"MN, Grand Rapids [Large rural]",0.552808762,V,Chicago
+E0206,"MN, St. Louis County [Urban core]",0.518561198,V,Chicago
+E0207,"MN, Rochester-Austin-Winona [Urban core]",0.518282071,V,Chicago
+E0208,"MN, Mankato-New Ulm [Urban core]",0.54444394,V,Chicago
+E0209,"MN, Mankato-New Ulm [Large rural]",0.63151687,V,Chicago
+E0210,"MN-WI, Minneapolis-St. Paul-Bloomington [Suburban]",0.575290188,V,Chicago
+E0212,"SD-MN, Sioux Falls [Large rural]",0.55418713,V,Chicago
+E0213,"MN, Worthington [Small town/rural]",0.559360048,V,Chicago
+E0215,"MN, Willmar [Suburban]",0.510957291,V,Chicago
+E0217,"MN, Clay County [Urban core]",0.507415949,V,Chicago
+E0218,"MN, Marshall [Small town/rural]",0.531532115,V,Chicago
+E0219,"ND-MN, Fargo-Wahpeton [Suburban]",0.530183492,V,Chicago
+E0220,"MN, Big Stone County [Small town/rural]",0.533986859,V,Chicago
+E0221,"MN, Yellow Medicine County [Large rural]",0.564339537,V,Chicago
+E0222,"MN, Mille Lacs County [Small town/rural]",0.532872416,V,Chicago
+E0223,"MN, St. Cloud [Large rural]",0.528447782,V,Chicago
+E0224,"MN, Alexandria, MN-Fergus Falls [Large rural]",0.560823783,V,Chicago
+E0225,"MN, Brainerd [Suburban]",0.552347237,V,Chicago
+E0226,"MN, Fergus Falls [Large rural] [Central]",0.562923211,V,Chicago
+E0227,"MN, Brainerd [Large rural]",0.568228551,V,Chicago
+E0228,"MN, Bemidji [Suburban]",0.531405867,V,Chicago
+E0229,"MN, Polk County [Small town/rural]",0.572398527,V,Chicago
+E0230,"MN, Otter Tail County [Large rural]",0.496253,V,Chicago
+E0231,"IL, Lake County [Urban core]",0.520523446,V,Chicago
+E0232,"IL, Cook County [Urban core] [Central] Two",0.571711457,V,Chicago
+E0233,"IL, McHenry County [Urban core]",0.543374356,V,Chicago
+E0234,"IL, Cook County [Urban core] [Central] Three",0.486649905,V,Chicago
+E0235,"IL, Kane County [Urban core]",0.559387241,V,Chicago
+E0236,"IL, DuPage County [Urban core] [Central] One",0.591031418,V,Chicago
+E0237,"IL, DeKalb County [Urban core]",0.546135338,V,Chicago
+E0238,"IL, Cook County [Urban core] [Central] Four",0.540127821,V,Chicago
+E0239,"IL, Cook County [Urban core] [Central] Five",0.576474897,V,Chicago
+E0240,"IL, Will County [Urban core]",0.590641319,V,Chicago
+E0241,"IL, Cook County [Urban core] [Central] Six",0.547376523,V,Chicago
+E0242,"IL, DuPage County [Urban core] [Central] Two",0.57178325,V,Chicago
+E0243,"IL, Bloomington-Pontiac [Urban core]",0.608692347,V,Chicago
+E0244,"IL, Kankakee [Urban core]",0.594877611,V,Chicago
+E0245,"IL, Ottawa [Urban core]",0.602693017,V,Chicago
+E0246,"IL, Danville [Large rural]",0.588927509,V,Chicago
+E0247,"IL, Champaign-Urbana [Urban core]",0.614083668,V,Chicago
+E0248,"IL, Rockford-Freeport-Rochelle [Small town/rural]",0.592893577,V,Chicago
+E0249,"IL, Rochelle [Suburban]",0.602624366,V,Chicago
+E0250,"IL, Rockford-Freeport-Rochelle [Urban core]",0.556535906,V,Chicago
+E0251,"IL, Dixon-Sterling [Suburban]",0.545285361,V,Chicago
+E0252,"IL, Rock Island County [Urban core] [Central] One",0.580070192,V,Chicago
+E0253,"IA-IL, Davenport-Moline [Large rural]",0.558450831,V,Chicago
+E0254,"IL, Rock Island County [Urban core] [Central] Two",0.562388262,V,Chicago
+E0255,"IL-IN-WI, Chicago-Naperville [Suburban] [Central]",0.619408678,V,Chicago
+E0256,"IL, Ottawa [Large rural]",0.589688717,V,Chicago
+E0257,"IL, Peoria County [Urban core]",0.593503516,V,Chicago
+E0258,"IL, Galesburg [Suburban]",0.509699363,V,Chicago
+E0259,"IL, Macomb [Suburban]",0.593173752,V,Chicago
+E0260,"IL, Canton [Suburban]",0.577099812,V,Chicago
+E0261,"IL, Henderson County [Suburban]",0.554921314,V,Chicago
+E0262,"IL, Lee County [Suburban]",0.591624467,V,Chicago
+E0263,"IL, Tazewell County [Urban core] [Central] One",0.603775585,V,Chicago
+E0264,"IL, Lincoln [Suburban]",0.590042774,V,Chicago
+E0265,"IL, Decatur [Urban core]",0.643490031,V,Chicago
+E0266,"IL, Tazewell County [Urban core] [Central] Two",0.520783653,V,Chicago
+E0267,"IL, Champaign-Urbana [Large rural]",0.619076645,V,Chicago
+E0268,"IL, Danville [Urban core]",0.556380037,V,Chicago
+E0269,"IL, Charleston-Mattoon [Suburban]",0.59804444,V,Chicago
+E0270,"IL, Shelby County [Large rural]",0.576460822,V,Chicago
+E0271,"IL, Madison County [Urban core] [Central] One",0.577513138,V,Chicago
+E0272,"IL, Madison County [Urban core] [Central] Two",0.577715955,V,Chicago
+E0273,"IL, Calhoun County [Urban core]",0.600737673,V,Chicago
+E0274,"IL, Macoupin County [Urban core]",0.548530969,V,Chicago
+E0275,"MO-IL, St. Louis-St. Charles-Farmington [Small town/rural]",0.601672563,V,Chicago
+E0276,"IL, Montgomery County [Large rural]",0.574036254,V,Chicago
+E0277,"IL, Bond County [Large rural]",0.546424091,V,Chicago
+E0278,"IL, St. Clair County [Urban core]",0.590035679,V,Chicago
+E0279,"IL, Mount Vernon [Large rural]",0.581814153,V,Chicago
+E0280,"IL, Monroe County [Large rural]",0.546146569,V,Chicago
+E0281,"IL, St. Clair County [Large rural]",0.593893739,V,Chicago
+E0282,"IL, Carbondale [Urban core]",0.610452872,V,Chicago
+E0283,"IL-MO, Quincy [Suburban]",0.583688212,V,Chicago
+E0284,"IL, Jacksonville [Large rural]",0.631609924,V,Chicago
+E0285,"IL, Jacksonville [Suburban]",0.593805864,V,Chicago
+E0286,"IL, Effingham [Suburban]",0.575756009,V,Chicago
+E0287,"IL, Crawford County [Large rural]",0.595127237,V,Chicago
+E0288,"IL, Effingham [Large rural]",0.559579704,V,Chicago
+E0289,"IL, Springfield-Jacksonville-Lincoln [Urban core]",0.592657642,V,Chicago
+E0290,"IL, Mount Vernon [Suburban]",0.567800412,V,Chicago
+E0291,"IL, Marion-Herrin [Urban core]",0.567357206,V,Chicago
+E0292,"IL, Hamilton County [Large rural]",0.597273059,V,Chicago
+E0293,"IL, White County [Large rural]",0.559705724,V,Chicago
+E0294,"IL, Centralia [Large rural]",0.574207896,V,Chicago
+E0295,"IL, Hardin County [Large rural]",0.543935061,V,Chicago
+E0296,"OH, Dayton-Springfield-Kettering [Large rural]",0.548773134,V,Chicago
+E0297,"OH, Licking County [Urban core]",0.547034564,V,Chicago
+E0298,"OH, Marietta [Large rural]",0.557436583,V,Chicago
+E0299,"OH, Marietta [Urban core]",0.535768735,V,Chicago
+E0300,"IN, Perry County [Large rural]",0.555919046,V,Chicago
+E0301,"IN, Owen County [Urban core]",0.532352941,V,Chicago
+E0302,"IN, Lake County-Porter County-Jasper County [Suburban]",0.539851875,V,Chicago
+E0303,"IN-MI, South Bend-Elkhart-Mishawaka [Large rural]",0.575170361,V,Chicago
+E0304,"MI, Holland [Urban core]",0.564359246,V,Chicago
+E0305,"MI, Mount Pleasant-Alma [Suburban]",0.534407874,V,Chicago
+E0306,"IL, Peoria [Suburban]",0.58096292,V,Chicago
+E0307,"IL, Elgin [Suburban]",0.617703047,V,Chicago
+E0308,"WI, Rock County [Urban core] [Central] Two",0.55040215,V,Chicago
+E0309,"WI, Iowa County [Small town/rural]",0.552511403,V,Chicago
+E0310,"WI-MI, Marinette-Iron Mountain [Small town/rural]",0.566636938,V,Chicago
+E0311,"OH, Lima-Van Wert-Celina [Small town/rural]",0.547540586,V,Chicago
+E0312,"OH, Butler County [Urban core]",0.523717717,V,Chicago
+E0313,"WI, Oshkosh-Neenah [Urban core]",0.576529216,V,Chicago
+E0314,"WI, Beaver Dam [Urban core]",0.552609484,V,Chicago
+E0315,"WI, Whitewater-Elkhorn [Suburban]",0.546633298,V,Chicago
+E0316,"ND-MN, Grand Forks [Large rural]",0.586475183,V,Chicago
+E0317,"MN, Carlton County-Douglas County-St. Louis County [Small town/rural]",0.547749994,V,Chicago
+E0318,"MN, Douglas County [Urban core]",0.58012012,V,Chicago
+E0319,"MN, St. Croix County [Urban core]",0.558483494,V,Chicago
+E0320,"WI, Platteville [Large rural]",0.537192461,V,Chicago
+E0321,"MN, Fergus Falls [Suburban]",0.519217018,V,Chicago
+E0322,"WI, Clark County [Small town/rural]",0.550494677,V,Chicago
+E0323,"MN, Dakota County [Urban core]",0.554135157,V,Chicago
+E0324,"MN, Owatonna [Suburban]",0.567772887,V,Chicago
+E0325,"MN, Mankato-New Ulm [Suburban]",0.565748318,V,Chicago
+E0326,"MN, Sherburne County [Urban core]",0.538398247,V,Chicago
+E0327,"ND-MN, Fergus Falls, MN-Wahpeton [Small town/rural]",0.543003061,V,Chicago
+E0328,"MN, Detroit Lakes [Small town/rural]",0.577543592,V,Chicago
+E0329,"IL, DuPage County [Urban core] [Central] Three",0.545854388,V,Chicago
+E0330,"IL, Clinton County [Large rural]",0.611620146,V,Chicago
+F0001,"LA, Jefferson Parish [Urban core] [Central] One",0.520739317,VI,Dallas
+F0002,"LA, St. Charles Parish [Urban core]",0.579661639,VI,Dallas
+F0003,"LA, Orleans Parish [Urban core]",0.556508255,VI,Dallas
+F0004,"LA, Jefferson Parish [Urban core] [Central] Two",0.564698417,VI,Dallas
+F0005,"LA, East Baton Rouge Parish [Urban core] [Central] One",0.581531168,VI,Dallas
+F0006,"LA, Lafourche Parish [Urban core] [Central] One",0.592315794,VI,Dallas
+F0007,"LA, Lafourche Parish [Urban core] [Central] Two",0.603863501,VI,Dallas
+F0008,"LA, Baton Rouge-Hammond, LA-Lafayette-New Iberia-Opelousas [Suburban]",0.570208216,VI,Dallas
+F0009,"LA, Terrebonne Parish [Urban core]",0.581898006,VI,Dallas
+F0010,"LA, Hammond [Urban core]",0.54971097,VI,Dallas
+F0011,"LA, Slidell-Mandeville-Covington [Urban core]",0.545510885,VI,Dallas
+F0012,"LA, Lafayette [Urban core]",0.586484588,VI,Dallas
+F0013,"LA, Lafayette [Large rural]",0.614005567,VI,Dallas
+F0014,"LA, Lafayette-New Iberia-Opelousas [Suburban]",0.581290453,VI,Dallas
+F0015,"LA, Opelousas [Large rural]",0.547375094,VI,Dallas
+F0016,"LA, Rapides Parish [Urban core]",0.589715116,VI,Dallas
+F0017,"LA, Calcasieu Parish [Urban core] [Central] One",0.604292364,VI,Dallas
+F0018,"LA, Calcasieu Parish [Urban core] [Central] Two",0.583247282,VI,Dallas
+F0019,"LA, Lake Charles-DeRidder [Suburban]",0.576522845,VI,Dallas
+F0020,"LA, East Baton Rouge Parish [Urban core] [Central] Two",0.590366347,VI,Dallas
+F0021,"LA, Pointe Coupee Parish [Urban core]",0.570942332,VI,Dallas
+F0022,"LA, Shreveport-Bossier City-Minden [Suburban]",0.57720374,VI,Dallas
+F0023,"LA, Shreveport-Bossier City-Minden [Urban core]",0.539437533,VI,Dallas
+F0024,"LA, Shreveport-Bossier City-Minden [Large rural]",0.578104803,VI,Dallas
+F0025,"LA, Monroe-Ruston [Suburban]",0.577347374,VI,Dallas
+F0026,"LA, Monroe-Ruston [Urban core]",0.574324186,VI,Dallas
+F0027,"LA, Monroe-Ruston [Large rural]",0.527533428,VI,Dallas
+F0028,"LA, West Carroll Parish [Small town/rural]",0.54291989,VI,Dallas
+F0029,"LA, Baton Rouge-Hammond [Small town/rural]",0.574241486,VI,Dallas
+F0030,"LA, Grant Parish [Urban core]",0.54947349,VI,Dallas
+F0031,"LA, Alexandria [Large rural]",0.564318445,VI,Dallas
+F0032,"LA, Natchitoches [Suburban]",0.529675898,VI,Dallas
+F0033,"AR, Pine Bluff [Urban core]",0.633174011,VI,Dallas
+F0034,"AR, Cleveland County-Jefferson County [Large rural]",0.57389912,VI,Dallas
+F0035,"AR, Cleveland County [Large rural]",0.563673728,VI,Dallas
+F0036,"MS, Greenville [Large rural]",0.587704864,VI,Dallas
+F0037,"AR, Camden [Suburban]",0.584408322,VI,Dallas
+F0038,"AR, El Dorado [Suburban]",0.54080085,VI,Dallas
+F0039,"AR, Magnolia [Suburban]",0.562634173,VI,Dallas
+F0041,"AR, Little River County [Large rural]",0.531612849,VI,Dallas
+F0042,"AR, Sevier County [Large rural]",0.549531105,VI,Dallas
+F0043,"AR, Howard County [Large rural]",0.560032378,VI,Dallas
+F0044,"TX-AR, Texarkana [Urban core]",0.565989255,VI,Dallas
+F0045,"AR, Hot Springs-Malvern [Urban core]",0.581261435,VI,Dallas
+F0046,"AR, Polk County [Large rural]",0.581883083,VI,Dallas
+F0048,"AR, Montgomery County [Small town/rural]",0.575795601,VI,Dallas
+F0049,"AR, Pulaski County [Urban core] [Central] One",0.604943789,VI,Dallas
+F0050,"AR, Woodruff County [Small town/rural]",0.549133064,VI,Dallas
+F0051,"AR, Pulaski County [Urban core] [Central] Two",0.583277473,VI,Dallas
+F0052,"AR, Searcy [Suburban]",0.534501516,VI,Dallas
+F0053,"AR, Saline County [Urban core]",0.600038032,VI,Dallas
+F0054,"AR, Russellville [Small town/rural]",0.524695851,VI,Dallas
+F0055,"AR, Faulkner County [Urban core]",0.550411887,VI,Dallas
+F0056,"AR, Forrest City [Suburban]",0.594939287,VI,Dallas
+F0057,"AR, Perry County [Large rural]",0.57201966,VI,Dallas
+F0058,"AR, Arkansas County [Large rural]",0.536558302,VI,Dallas
+F0059,"AR, Batesville [Small town/rural] [Central]",0.58637604,VI,Dallas
+F0060,"AR, Faulkner County [Large rural]",0.530718529,VI,Dallas
+F0061,"AR, Batesville [Large rural]",0.588917403,VI,Dallas
+F0062,"AR, Crittenden County [Urban core]",0.574089994,VI,Dallas
+F0063,"AR, Craighead County [Urban core]",0.596897149,VI,Dallas
+F0064,"AR, Forrest City [Small town/rural]",0.578725963,VI,Dallas
+F0065,"AR, Phillips County [Suburban]",0.549048072,VI,Dallas
+F0066,"AR, Poinsett County [Urban core]",0.57653763,VI,Dallas
+F0067,"AR, Jonesboro-Paragould [Suburban]",0.587941948,VI,Dallas
+F0068,"AR, Jonesboro [Large rural]",0.557501623,VI,Dallas
+F0069,"AR, Paragould [Large rural]",0.573331197,VI,Dallas
+F0070,"AR, Batesville [Suburban]",0.578395457,VI,Dallas
+F0071,"AR, Fulton County [Small town/rural]",0.556147026,VI,Dallas
+F0072,"AR, Mountain Home [Small town/rural]",0.527789172,VI,Dallas
+F0073,"AR, Mountain Home [Suburban]",0.577957211,VI,Dallas
+F0074,"AR, Harrison [Suburban]",0.580393561,VI,Dallas
+F0075,"AR, Harrison [Large rural]",0.601479662,VI,Dallas
+F0076,"AR, Boone County [Small town/rural]",0.581190544,VI,Dallas
+F0077,"AR, Newton County [Small town/rural]",0.51721051,VI,Dallas
+F0078,"TX, Harris County [Urban core] [Central] One",0.54766898,VI,Dallas
+F0079,"AR, Washington County [Urban core]",0.557492337,VI,Dallas
+F0080,"AR, Benton County [Urban core]",0.593812693,VI,Dallas
+F0081,"AR, Pope County [Suburban]",0.543044893,VI,Dallas
+F0082,"AR-OK, Fort Smith [Large rural]",0.612580075,VI,Dallas
+F0083,"AR, Yell County [Suburban]",0.563686862,VI,Dallas
+F0084,"AR, Russellville [Large rural]",0.572232597,VI,Dallas
+F0085,"AR, Sebastian County [Urban core]",0.554017423,VI,Dallas
+F0086,"OK, Le Flore County [Urban core]",0.544303564,VI,Dallas
+F0087,"OK, Oklahoma City [Suburban]",0.526792976,VI,Dallas
+F0088,"OK, Oklahoma County [Urban core]",0.592979286,VI,Dallas
+F0089,"OK, Lawton [Urban core]",0.588870351,VI,Dallas
+F0090,"OK, Canadian County [Suburban]",0.584125795,VI,Dallas
+F0091,"OK, Cleveland County [Urban core]",0.592964309,VI,Dallas
+F0092,"OK, Canadian County [Large rural]",0.575571275,VI,Dallas
+F0093,"OK, Stillwater [Suburban]",0.551450449,VI,Dallas
+F0094,"OK, Logan County [Large rural]",0.558469888,VI,Dallas
+F0095,"OK, Murray County [Large rural]",0.551544048,VI,Dallas
+F0096,"OK, Duncan [Suburban]",0.598786469,VI,Dallas
+F0097,"OK, Garvin County [Large rural]",0.539497753,VI,Dallas
+F0098,"OK, Ardmore [Suburban]",0.595419497,VI,Dallas
+F0099,"OK, Ardmore [Small town/rural]",0.599748439,VI,Dallas
+F0100,"OK, Durant [Urban core]",0.614761124,VI,Dallas
+F0101,"OK, Altus [Suburban]",0.624874109,VI,Dallas
+F0102,"TX, Wichita Falls [Urban core]",0.524652592,VI,Dallas
+F0103,"OK, Weatherford [Large rural]",0.592003648,VI,Dallas
+F0104,"TX, Gainesville [Large rural]",0.556457151,VI,Dallas
+F0105,"OK, Custer County [Suburban]",0.583393619,VI,Dallas
+F0106,"OK, Elk City [Large rural]",0.532427714,VI,Dallas
+F0108,"OK, Enid [Suburban]",0.563617084,VI,Dallas
+F0109,"OK, Major County [Small town/rural]",0.551886234,VI,Dallas
+F0110,"OK, Woodward [Suburban]",0.565963978,VI,Dallas
+F0111,"OK, Woodward [Small town/rural]",0.574715577,VI,Dallas
+F0112,"OK, Guymon [Suburban]",0.596868848,VI,Dallas
+F0113,"NM, Las Vegas [Large rural]",0.559848465,VI,Dallas
+F0114,"TX, Amarillo-Borger [Suburban]",0.563686349,VI,Dallas
+F0115,"OK, Bartlesville [Suburban]",0.594242942,VI,Dallas
+F0116,"OK, Tulsa County [Urban core]",0.564452292,VI,Dallas
+F0117,"OK, Pawnee County [Urban core]",0.545017469,VI,Dallas
+F0118,"OK, Lincoln County [Large rural]",0.543935087,VI,Dallas
+F0120,"OK, Miami [Large rural]",0.556721822,VI,Dallas
+F0121,"OK, Tahlequah [Suburban]",0.558025024,VI,Dallas
+F0122,"OK, Miami [Suburban]",0.593100762,VI,Dallas
+F0123,"OK, Muskogee [Suburban]",0.558590703,VI,Dallas
+F0124,"OK, Latimer County [Large rural]",0.556016867,VI,Dallas
+F0125,"OK, McAlester [Suburban]",0.556154038,VI,Dallas
+F0126,"OK, Haskell County [Large rural]",0.565263854,VI,Dallas
+F0127,"OK, McAlester [Small town/rural]",0.543246015,VI,Dallas
+F0128,"OK, Ada [Suburban]",0.601662209,VI,Dallas
+F0129,"OK, Ada [Small town/rural]",0.565716906,VI,Dallas
+F0130,"OK, Durant [Large rural]",0.49807853,VI,Dallas
+F0131,"OK, Ponca City [Suburban]",0.568138685,VI,Dallas
+F0132,"TX, Dallas County [Urban core] [Central] One",0.54951916,VI,Dallas
+F0133,"TX, Collin County [Urban core]",0.562674903,VI,Dallas
+F0134,"TX, Tarrant County [Urban core] [Central] One",0.585131403,VI,Dallas
+F0135,"TX, Denton County [Urban core]",0.577249031,VI,Dallas
+F0136,"TX, Sherman-Denison [Urban core]",0.589976823,VI,Dallas
+F0137,"TX, Corsicana [Suburban]",0.614545141,VI,Dallas
+F0138,"TX, Tyler [Urban core]",0.566532012,VI,Dallas
+F0139,"TX, Dallas County [Urban core] [Central] Two",0.565578555,VI,Dallas
+F0140,"TX, Palestine [Suburban]",0.581102408,VI,Dallas
+F0141,"TX, Hunt County [Suburban]",0.589942135,VI,Dallas
+F0142,"TX, Paris [Suburban]",0.586269417,VI,Dallas
+F0143,"TX, Paris [Large rural]",0.55114369,VI,Dallas
+F0144,"TX, Sulphur Springs [Suburban]",0.565591078,VI,Dallas
+F0145,"TX, Longview [Urban core]",0.584454326,VI,Dallas
+F0146,"TX, Nacogdoches [Suburban]",0.585665652,VI,Dallas
+F0147,"TX, Houston-Pasadena [Small town/rural]",0.584942949,VI,Dallas
+F0148,"TX, Limestone County [Large rural]",0.578357626,VI,Dallas
+F0149,"TX, Tyler-Jacksonville [Suburban]",0.584345268,VI,Dallas
+F0150,"TX, Huntsville [Suburban]",0.562166564,VI,Dallas
+F0151,"TX, Beaumont-Port Arthur [Urban core]",0.559017556,VI,Dallas
+F0152,"TX, Beaumont-Port Arthur [Large rural]",0.55813171,VI,Dallas
+F0153,"TX, Tarrant County [Urban core] [Central] Two",0.54246075,VI,Dallas
+F0154,"TX, Tarrant County [Urban core] [Central] Three",0.54784023,VI,Dallas
+F0155,"TX, Bosque County [Urban core]",0.536081246,VI,Dallas
+F0156,"TX, Mineral Wells [Suburban]",0.56447615,VI,Dallas
+F0157,"TX, Dallas-Fort Worth-Arlington [Large rural]",0.539501689,VI,Dallas
+F0158,"TX, Clay County [Large rural]",0.518031691,VI,Dallas
+F0159,"TX, Gainesville [Suburban]",0.544441776,VI,Dallas
+F0161,"TX, Knox County [Small town/rural]",0.556207345,VI,Dallas
+F0162,"TX, Archer County [Large rural]",0.539711096,VI,Dallas
+F0163,"TX, Vernon [Suburban]",0.51522614,VI,Dallas
+F0164,"TX, Stephenville [Suburban]",0.595665471,VI,Dallas
+F0165,"TX, Abilene-Sweetwater [Urban core]",0.573745057,VI,Dallas
+F0166,"TX, Brownwood [Suburban]",0.603784403,VI,Dallas
+F0167,"TX, Killeen-Temple [Large rural]",0.550722168,VI,Dallas
+F0168,"TX, Brownwood [Large rural]",0.6109046,VI,Dallas
+F0170,"TX, Bell County [Urban core] [Central] One",0.571344958,VI,Dallas
+F0171,"TX, Milam County [Large rural]",0.53381538,VI,Dallas
+F0172,"TX, Bell County [Urban core] [Central] Two",0.576089881,VI,Dallas
+F0173,"TX, McLennan County [Urban core]",0.546326826,VI,Dallas
+F0174,"TX, Hamilton County [Large rural]",0.560719399,VI,Dallas
+F0175,"TX, Austin-Round Rock-San Marcos [Urban core]",0.579074618,VI,Dallas
+F0176,"TX, College Station-Bryan [Urban core]",0.608250809,VI,Dallas
+F0178,"TX, San Angelo [Urban core]",0.557930686,VI,Dallas
+F0179,"TX, San Antonio-New Braunfels-Kerrville [Small town/rural]",0.597106043,VI,Dallas
+F0180,"TX, Del Rio [Large rural]",0.556048011,VI,Dallas
+F0181,"TX, Harris County [Urban core] [Central] Two",0.551604203,VI,Dallas
+F0182,"TX, Harris County [Urban core] [Central] Three",0.56570303,VI,Dallas
+F0183,"TX, Galveston County [Urban core]",0.554131774,VI,Dallas
+F0184,"TX, Montgomery County [Urban core]",0.558025203,VI,Dallas
+F0185,"TX, Fort Bend County [Urban core]",0.568128393,VI,Dallas
+F0186,"TX, Brazoria County [Urban core]",0.589808878,VI,Dallas
+F0187,"TX, Houston-Pasadena-The Woodlands [Large rural]",0.579424788,VI,Dallas
+F0188,"TX, Brenham [Suburban]",0.567630143,VI,Dallas
+F0189,"TX, Harris County [Urban core] [Central] Four",0.53365821,VI,Dallas
+F0190,"TX, Harris County [Urban core] [Central] Five",0.571685527,VI,Dallas
+F0191,"TX, Victoria-Port Lavaca [Urban core]",0.556296705,VI,Dallas
+F0192,"TX, Bexar County [Urban core]",0.568412748,VI,Dallas
+F0193,"TX, Eagle Pass [Suburban]",0.559029453,VI,Dallas
+F0194,"TX, Atascosa County [Urban core]",0.570987389,VI,Dallas
+F0195,"TX, Kerrville [Suburban]",0.583358823,VI,Dallas
+F0196,"TX, Corpus Christi-Kingsville-Alice [Urban core]",0.538987552,VI,Dallas
+F0198,"TX, Laredo [Urban core]",0.49577739,VI,Dallas
+F0199,"TX, Victoria-Port Lavaca [Large rural]",0.558837879,VI,Dallas
+F0200,"TX, Comal County [Urban core]",0.555806023,VI,Dallas
+F0201,"TX, Austin-Round Rock-San Marcos [Small town/rural]",0.58169172,VI,Dallas
+F0202,"TX, Hidalgo County [Urban core] [Central] One",0.498666308,VI,Dallas
+F0203,"TX, Cameron County [Urban core] [Central] One",0.495703895,VI,Dallas
+F0204,"TX, Hidalgo County [Urban core] [Central] Two",0.516920743,VI,Dallas
+F0205,"TX, Cameron County [Urban core] [Central] Two",0.484356643,VI,Dallas
+F0206,"TX, Fredericksburg [Suburban]",0.534660983,VI,Dallas
+F0207,"TX, Bastrop County [Large rural]",0.625826521,VI,Dallas
+F0208,"TX, Uvalde [Suburban]",0.533500018,VI,Dallas
+F0209,"TX, Amarillo-Borger [Urban core]",0.531529824,VI,Dallas
+F0210,"TX, Lipscomb County [Large rural]",0.519938472,VI,Dallas
+F0211,"TX, Castro County [Large rural]",0.571447794,VI,Dallas
+F0212,"TX, Parmer County [Large rural]",0.561675349,VI,Dallas
+F0213,"TX, Amarillo-Borger [Large rural]",0.577897248,VI,Dallas
+F0214,"TX, Plainview [Suburban]",0.578226421,VI,Dallas
+F0215,"TX, Plainview [Large rural]",0.539878566,VI,Dallas
+F0217,"TX, Cottle County [Large rural]",0.574380155,VI,Dallas
+F0218,"TX, Lubbock-Plainview [Urban core]",0.560873069,VI,Dallas
+F0219,"TX, Midland-Odessa-Andrews [Suburban]",0.554196254,VI,Dallas
+F0221,"TX, Snyder [Large rural]",0.543858976,VI,Dallas
+F0222,"TX, Abilene [Large rural]",0.567752411,VI,Dallas
+F0223,"TX, Snyder [Suburban]",0.603213681,VI,Dallas
+F0224,"TX, Midland [Urban core]",0.579950867,VI,Dallas
+F0225,"TX, Odessa [Urban core]",0.607907214,VI,Dallas
+F0226,"TX, Town of Pecos [Large rural]",0.567917142,VI,Dallas
+F0227,"TX, El Paso [Urban core]",0.583204464,VI,Dallas
+F0228,"NM, Cibola County [Suburban]",0.549021478,VI,Dallas
+F0229,"NM, Albuquerque [Urban core]",0.520732718,VI,Dallas
+F0230,"NM, Farmington [Large rural]",0.541355733,VI,Dallas
+F0231,"NM, McKinley County [Suburban]",0.60804722,VI,Dallas
+F0232,"NM, Farmington [Urban core]",0.557418837,VI,Dallas
+F0233,"NM, Santa Fe [Urban core]",0.602865644,VI,Dallas
+F0234,"NM, Taos [Suburban]",0.579717292,VI,Dallas
+F0235,"NM, Española [Urban core]",0.549790118,VI,Dallas
+F0236,"NM, Socorro County [Large rural]",0.563288555,VI,Dallas
+F0237,"NM, Sierra County [Large rural]",0.558243465,VI,Dallas
+F0238,"NM, Las Cruces [Urban core]",0.534633728,VI,Dallas
+F0239,"NM, Silver City [Suburban]",0.631702383,VI,Dallas
+F0240,"NM, Curry County [Suburban]",0.570398818,VI,Dallas
+F0241,"NM, Roswell [Suburban]",0.57147459,VI,Dallas
+F0242,"NM, Hobbs [Suburban]",0.519208154,VI,Dallas
+F0243,"NM, Ruidoso [Large rural]",0.576298551,VI,Dallas
+F0244,"NM, Alamogordo [Suburban]",0.573129115,VI,Dallas
+F0246,"OK, Sequoyah County [Urban core]",0.531090722,VI,Dallas
+F0247,"TX, Mineral Wells [Large rural]",0.545864475,VI,Dallas
+F0248,"TX, Parker County [Suburban]",0.566115169,VI,Dallas
+F0249,"TX, Dallas County [Urban core] [Central] Three",0.56514141,VI,Dallas
+F0250,"OK, Lawton-Duncan [Large rural]",0.588715902,VI,Dallas
+F0251,"TX-NM, El Paso-Las Cruces [Suburban]",0.576362342,VI,Dallas
+F0252,"NM, Roosevelt County [Suburban]",0.572353159,VI,Dallas
+F0254,"OK, Tulsa [Suburban]",0.561436545,VI,Dallas
+F0255,"TX, Sabine County [Small town/rural]",0.636763056,VI,Dallas
+F0256,"TX, Abilene-Sweetwater [Suburban]",0.566338112,VI,Dallas
+F0257,"TX, Victoria-Port Lavaca [Small town/rural]",0.621845429,VI,Dallas
+F0258,"TX, San Antonio-New Braunfels-Kerrville [Large rural]",0.577557075,VI,Dallas
+F0259,"TX, Lubbock [Large rural]",0.584049678,VI,Dallas
+F0260,"TX, Big Spring [Large rural]",0.585480801,VI,Dallas
+G0001,"IA, Des Moines-West Des Moines [Large rural]",0.579424962,VII,Kansas City
+G0002,"IA, Pottawattamie County [Large rural]",0.593830992,VII,Kansas City
+G0003,"IA, Des Moines-West Des Moines [Urban core]",0.540527638,VII,Kansas City
+G0004,"IA, Grundy County [Small town/rural]",0.548120821,VII,Kansas City
+G0005,"IA, Wayne County [Small town/rural]",0.524227482,VII,Kansas City
+G0006,"IA, Ames [Urban core]",0.55810095,VII,Kansas City
+G0007,"IA, Des Moines-West Des Moines [Small town/rural]",0.569606642,VII,Kansas City
+G0008,"IA, Ottumwa [Large rural]",0.589652427,VII,Kansas City
+G0009,"IA, Oskaloosa [Suburban]",0.601258321,VII,Kansas City
+G0010,"IA, Mason City [Suburban]",0.596953479,VII,Kansas City
+G0011,"IA, Hancock County [Small town/rural]",0.556207969,VII,Kansas City
+G0012,"IA, Franklin County [Large rural]",0.522391394,VII,Kansas City
+G0013,"IA, Kossuth County [Large rural]",0.55775508,VII,Kansas City
+G0014,"IA, Fort Dodge [Suburban]",0.550607433,VII,Kansas City
+G0015,"IA, Spencer-Spirit Lake [Large rural]",0.591084824,VII,Kansas City
+G0016,"IA, Waterloo-Cedar Falls [Urban core]",0.592101672,VII,Kansas City
+G0017,"IA, Fayette County [Small town/rural]",0.632597997,VII,Kansas City
+G0018,"IA, Montgomery County [Small town/rural]",0.618551046,VII,Kansas City
+G0019,"IA-NE-SD, Sioux City [Urban core]",0.603190906,VII,Kansas City
+G0020,"IA, Le Mars [Large rural]",0.541901207,VII,Kansas City
+G0021,"IA, Storm Lake [Large rural]",0.636267946,VII,Kansas City
+G0022,"IA, Ida County [Small town/rural]",0.609421011,VII,Kansas City
+G0023,"IA, Monona County [Small town/rural]",0.584265689,VII,Kansas City
+G0024,"KS, Wichita [Suburban]",0.592174235,VII,Kansas City
+G0025,"IA, O'Brien County [Large rural]",0.571394976,VII,Kansas City
+G0026,"IA, Sioux County [Small town/rural]",0.571125615,VII,Kansas City
+G0027,"IA, Osceola County [Large rural]",0.526076755,VII,Kansas City
+G0028,"IA, Spencer-Spirit Lake [Suburban]",0.572720435,VII,Kansas City
+G0029,"IA, Carroll [Large rural]",0.620064348,VII,Kansas City
+G0031,"NE, Douglas County [Urban core]",0.53546677,VII,Kansas City
+G0032,"IA, Shelby County [Small town/rural]",0.578950018,VII,Kansas City
+G0033,"IA, Dubuque [Urban core]",0.554452258,VII,Kansas City
+G0034,"IA, Scott County [Urban core]",0.55738691,VII,Kansas City
+G0035,"IA, Cedar Rapids, IA-Dubuque [Large rural]",0.584069177,VII,Kansas City
+G0036,"IA, Clinton [Suburban]",0.519601251,VII,Kansas City
+G0037,"IA, Winneshiek County [Large rural]",0.557789915,VII,Kansas City
+G0038,"IA, Iowa City [Large rural]",0.603254571,VII,Kansas City
+G0039,"IA, Cedar Rapids [Urban core]",0.553787345,VII,Kansas City
+G0040,"IA, Iowa City [Urban core]",0.552640898,VII,Kansas City
+G0041,"IA, Cedar Rapids-Iowa City [Suburban]",0.577671602,VII,Kansas City
+G0042,"IA, Des Moines County [Suburban]",0.584489313,VII,Kansas City
+G0043,"IA, Lee County [Suburban]",0.599584678,VII,Kansas City
+G0044,"MO, St. Louis County [Urban core]",0.590502072,VII,Kansas City
+G0045,"MO, Franklin County [Urban core]",0.558366117,VII,Kansas City
+G0046,"MO, St. Francois County [Urban core]",0.57080023,VII,Kansas City
+G0047,"MO, Callaway County [Large rural]",0.609844312,VII,Kansas City
+G0048,"MO, Hannibal [Suburban]",0.614614834,VII,Kansas City
+G0049,"MO, Kirksville [Suburban]",0.580248727,VII,Kansas City
+G0050,"MO, Moberly [Large rural]",0.592397858,VII,Kansas City
+G0051,"MO, Linn County [Small town/rural]",0.595140663,VII,Kansas City
+G0052,"MO, Rolla [Suburban]",0.552622673,VII,Kansas City
+G0053,"MO-IL, Cape Girardeau-Sikeston [Suburban]",0.58856742,VII,Kansas City
+G0054,"MO-IL, Cape Girardeau-Sikeston [Urban core]",0.588994167,VII,Kansas City
+G0055,"MO, Jackson County [Urban core]",0.555915648,VII,Kansas City
+G0056,"MO, Livingston County [Large rural]",0.590007651,VII,Kansas City
+G0057,"MO, Warrensburg [Large rural]",0.553140705,VII,Kansas City
+G0058,"MO, Bates County [Large rural]",0.57825301,VII,Kansas City
+G0059,"MO, Clay County [Urban core]",0.587232593,VII,Kansas City
+G0060,"MO-KS, St. Joseph [Urban core]",0.536033377,VII,Kansas City
+G0061,"MO, Maryville [Suburban]",0.574665213,VII,Kansas City
+G0062,"MO, Harrison County [Small town/rural]",0.570568115,VII,Kansas City
+G0063,"MO, Caldwell County [Large rural]",0.628644874,VII,Kansas City
+G0064,"KS, Johnson County [Urban core]",0.568641776,VII,Kansas City
+G0065,"MO-KS, Joplin [Large rural]",0.570205374,VII,Kansas City
+G0066,"MO-KS, Joplin [Urban core]",0.594191053,VII,Kansas City
+G0067,"MO, Springfield [Large rural]",0.570289029,VII,Kansas City
+G0068,"MO, Columbia [Urban core]",0.568327152,VII,Kansas City
+G0069,"MO, Jefferson City [Urban core]",0.533143182,VII,Kansas City
+G0070,"MO, Lebanon [Small town/rural]",0.528050996,VII,Kansas City
+G0071,"MO, Columbia [Large rural]",0.554563768,VII,Kansas City
+G0072,"MO, West Plains [Suburban]",0.589766392,VII,Kansas City
+G0073,"MO, Springfield [Urban core]",0.564228613,VII,Kansas City
+G0074,"KS, Lawrence [Urban core]",0.547715985,VII,Kansas City
+G0075,"KS, Linn County [Large rural]",0.571108789,VII,Kansas City
+G0076,"MO-KS, Kansas City-Overland Park-Kansas City [Small town/rural]",0.601928514,VII,Kansas City
+G0077,"KS, Topeka [Urban core]",0.526472006,VII,Kansas City
+G0078,"KS, Manhattan [Large rural]",0.561122592,VII,Kansas City
+G0079,"KS, Jackson County [Large rural]",0.595070254,VII,Kansas City
+G0080,"KS, Brown County [Large rural]",0.542319913,VII,Kansas City
+G0081,"KS, Salina [Suburban]",0.565568303,VII,Kansas City
+G0082,"KS, Emporia [Suburban]",0.575491935,VII,Kansas City
+G0083,"KS, Pittsburg [Suburban]",0.544326834,VII,Kansas City
+G0084,"MO-KS, Joplin [Suburban]",0.563776599,VII,Kansas City
+G0085,"KS, Wichita [Large rural]",0.555302533,VII,Kansas City
+G0086,"NE, Lincoln-Beatrice [Suburban]",0.583498042,VII,Kansas City
+G0087,"KS, Republic County [Small town/rural]",0.637150167,VII,Kansas City
+G0088,"KS, Manhattan [Small town/rural]",0.55981888,VII,Kansas City
+G0089,"KS, Mitchell County [Large rural]",0.588354156,VII,Kansas City
+G0090,"KS, Wichita-Arkansas City-Winfield [Urban core]",0.542182513,VII,Kansas City
+G0091,"KS, Hutchinson [Suburban]",0.601433003,VII,Kansas City
+G0093,"KS, Kingman County [Large rural]",0.561254855,VII,Kansas City
+G0095,"KS, Dickinson County [Large rural]",0.571002165,VII,Kansas City
+G0098,"KS, Great Bend [Large rural]",0.548332285,VII,Kansas City
+G0099,"KS, Great Bend [Suburban]",0.517797676,VII,Kansas City
+G0102,"KS, Garden City [Suburban]",0.574256253,VII,Kansas City
+G0103,"KS, Trego County [Small town/rural]",0.508972171,VII,Kansas City
+G0104,"KS, Norton County [Large rural]",0.512798678,VII,Kansas City
+G0105,"KS, Rooks County [Small town/rural]",0.515386414,VII,Kansas City
+G0106,"KS, Thomas County [Small town/rural]",0.558435359,VII,Kansas City
+G0114,"NE-IA, Omaha-Fremont [Suburban]",0.515355362,VII,Kansas City
+G0115,"NE, Dodge County [Small town/rural]",0.639479271,VII,Kansas City
+G0116,"NE, Saunders County [Large rural]",0.542605764,VII,Kansas City
+G0117,"NE, Nemaha County [Large rural]",0.554864299,VII,Kansas City
+G0118,"NE, Lincoln-Beatrice [Large rural]",0.568602528,VII,Kansas City
+G0119,"NE, Lincoln-Beatrice [Urban core]",0.494840213,VII,Kansas City
+G0120,"NE, Lincoln-Beatrice [Small town/rural]",0.512828063,VII,Kansas City
+G0121,"NE, Hastings [Small town/rural]",0.519887508,VII,Kansas City
+G0122,"NE, Hastings [Suburban]",0.568577291,VII,Kansas City
+G0123,"NE, Columbus [Small town/rural]",0.563904456,VII,Kansas City
+G0124,"NE, Antelope County [Small town/rural]",0.510338407,VII,Kansas City
+G0125,"NE, Holt County [Small town/rural]",0.58743521,VII,Kansas City
+G0126,"NE, Brown County [Small town/rural]",0.566606694,VII,Kansas City
+G0127,"NE, Norfolk [Small town/rural]",0.582431687,VII,Kansas City
+G0128,"NE, Grand Island [Urban core]",0.521803062,VII,Kansas City
+G0129,"NE, Kearney [Suburban]",0.592266771,VII,Kansas City
+G0130,"NE, Valley County [Small town/rural]",0.578625245,VII,Kansas City
+G0131,"NE, Lexington [Large rural]",0.632394504,VII,Kansas City
+G0132,"NE, Lexington [Small town/rural]",0.555859452,VII,Kansas City
+G0133,"NE, North Platte [Large rural]",0.612462965,VII,Kansas City
+G0134,"NE, North Platte [Suburban]",0.543278017,VII,Kansas City
+G0135,"NE, Scottsbluff [Small town/rural]",0.539014639,VII,Kansas City
+G0136,"NE, Scottsbluff [Large rural]",0.560952777,VII,Kansas City
+G0137,"NE, Scottsbluff [Suburban]",0.569393011,VII,Kansas City
+G0138,"IA, Winnebago County [Small town/rural]",0.547322673,VII,Kansas City
+G0139,"IA, Fort Dodge [Small town/rural]",0.57277478,VII,Kansas City
+G0140,"IA, Spencer-Spirit Lake [Small town/rural]",0.630165988,VII,Kansas City
+G0141,"MO, Vernon County [Large rural]",0.591906426,VII,Kansas City
+G0142,"MO, Sedalia [Suburban]",0.576575797,VII,Kansas City
+G0143,"MO, Fort Leonard Wood [Suburban]",0.569962147,VII,Kansas City
+G0144,"MO, Poplar Bluff [Small town/rural]",0.574457251,VII,Kansas City
+G0145,"IA, Muscatine [Suburban]",0.571379745,VII,Kansas City
+G0146,"IA, Butler County [Small town/rural]",0.589020888,VII,Kansas City
+G0147,"IA, Mitchell County [Small town/rural]",0.581342824,VII,Kansas City
+G0148,"IA, Le Mars [Small town/rural]",0.571614169,VII,Kansas City
+G0149,"NE, Dakota County-Union County-Woodbury County [Small town/rural]",0.539913528,VII,Kansas City
+G0150,"NE, Washington County [Urban core]",0.592463908,VII,Kansas City
+G0151,"NE, Columbus [Large rural]",0.584100474,VII,Kansas City
+G0152,"NE, Cass County [Urban core]",0.560808685,VII,Kansas City
+G0153,"KS, Nemaha County [Small town/rural]",0.553958618,VII,Kansas City
+G0154,"MO-KS, St. Joseph [Suburban]",0.593306863,VII,Kansas City
+G0155,"KS, Manhattan [Urban core]",0.593428107,VII,Kansas City
+G0156,"KS, Ottawa [Suburban]",0.569409892,VII,Kansas City
+G0157,"MO-KS, Kansas City [Suburban]",0.574547836,VII,Kansas City
+G0158,"MO, Platte County [Urban core]",0.56588111,VII,Kansas City
+G0159,"MO, Lafayette County [Large rural]",0.601372437,VII,Kansas City
+G0160,"NE, Norfolk [Suburban]",0.544532254,VII,Kansas City
+G0161,"KS, Pratt County [Large rural]",0.534677387,VII,Kansas City
+G0162,"KS, Hays [Suburban]",0.554485419,VII,Kansas City
+G0163,"KS, Republic County [Large rural]",0.562768699,VII,Kansas City
+G0164,"NE, Cherry County [Large rural]",0.563337271,VII,Kansas City
+G0165,"NE, Lexington [Suburban]",0.536491882,VII,Kansas City
+G0166,"NE, North Platte [Small town/rural]",0.581468186,VII,Kansas City
+H0001,"SD, Watertown [Suburban]",0.545985214,VIII,Denver
+H0002,"SD, Brookings [Suburban]",0.645995863,VIII,Denver
+H0003,"SD, Yankton [Suburban]",0.621055432,VIII,Denver
+H0004,"SD, Yankton [Small town/rural]",0.599114304,VIII,Denver
+H0005,"SD, Watertown [Large rural]",0.598233831,VIII,Denver
+H0006,"SD, Watertown [Small town/rural]",0.588907109,VIII,Denver
+H0007,"SD, Huron [Suburban]",0.605193214,VIII,Denver
+H0008,"SD, Mitchell [Suburban]",0.605323332,VIII,Denver
+H0009,"SD, Gregory County [Small town/rural]",0.47418055,VIII,Denver
+H0010,"SD, Rapid City-Spearfish [Small town/rural]",0.558907676,VIII,Denver
+H0011,"SD, Hand County [Small town/rural]",0.577837749,VIII,Denver
+H0012,"SD, Hanson County [Small town/rural]",0.624944342,VIII,Denver
+H0013,"SD, Brule County [Small town/rural]",0.572349432,VIII,Denver
+H0015,"SD, Aberdeen [Suburban]",0.544600827,VIII,Denver
+H0018,"SD, Spink County [Small town/rural]",0.567327395,VIII,Denver
+H0020,"SD, Rapid City-Spearfish [Urban core]",0.563625004,VIII,Denver
+H0022,"ND, Dickinson [Small town/rural]",0.589671873,VIII,Denver
+H0023,"CO, Arapahoe County [Urban core]",0.494743407,VIII,Denver
+H0024,"SD, Rapid City-Spearfish [Large rural]",0.53078882,VIII,Denver
+H0025,"ND, Cass County [Urban core]",0.552530065,VIII,Denver
+H0026,"ND-MN, Fargo-Wahpeton [Large rural]",0.527910723,VIII,Denver
+H0027,"ND-MN, Grand Forks [Urban core]",0.656408696,VIII,Denver
+H0028,"ND, Walsh County [Small town/rural]",0.538923172,VIII,Denver
+H0029,"ND, Traill County [Small town/rural]",0.563714816,VIII,Denver
+H0030,"ND, Minot [Large rural]",0.549275838,VIII,Denver
+H0031,"ND, Jamestown [Small town/rural]",0.542717164,VIII,Denver
+H0032,"ND, Jamestown [Suburban]",0.620537295,VIII,Denver
+H0034,"ND, Bismarck [Urban core]",0.582511067,VIII,Denver
+H0035,"ND, Bismarck [Small town/rural]",0.560561756,VIII,Denver
+H0036,"ND, Dickinson [Suburban]",0.606676644,VIII,Denver
+H0037,"CO, Larimer County [Urban core] [Central] One",0.555947267,VIII,Denver
+H0038,"ND, Minot [Suburban]",0.613984693,VIII,Denver
+H0041,"MT, Stillwater County [Small town/rural]",0.568730754,VIII,Denver
+H0042,"UT, Vernal [Suburban]",0.582799917,VIII,Denver
+H0043,"MT, Carbon County [Small town/rural]",0.542385324,VIII,Denver
+H0044,"MT, Billings [Large rural]",0.549349659,VIII,Denver
+H0045,"MT, Rosebud County [Small town/rural]",0.456525244,VIII,Denver
+H0046,"MT, Billings [Urban core]",0.480514992,VIII,Denver
+H0048,"MT, Custer County [Large rural]",0.561390838,VIII,Denver
+H0049,"ND, Dickinson [Large rural]",0.547618947,VIII,Denver
+H0052,"MT, Great Falls [Urban core]",0.5519267,VIII,Denver
+H0053,"MT, Glacier County [Large rural]",0.527230608,VIII,Denver
+H0054,"MT, Blaine County [Large rural]",0.562347577,VIII,Denver
+H0055,"MT, Helena [Suburban]",0.509376273,VIII,Denver
+H0056,"MT, Bozeman [Suburban]",0.521921794,VIII,Denver
+H0058,"MT, Butte-Silver Bow [Large rural]",0.519300797,VIII,Denver
+H0059,"MT, Missoula [Urban core]",0.480557331,VIII,Denver
+H0060,"MT, Lake County [Small town/rural]",0.521429639,VIII,Denver
+H0061,"MT, Ravalli County [Large rural]",0.536680798,VIII,Denver
+H0062,"MT, Missoula [Small town/rural]",0.55428892,VIII,Denver
+H0063,"UT, Weber County [Urban core]",0.487728688,VIII,Denver
+H0064,"MT, Kalispell [Suburban]",0.496853809,VIII,Denver
+H0065,"CO, Jefferson County [Urban core] [Central] One",0.503855653,VIII,Denver
+H0066,"CO, Colorado Springs [Urban core]",0.482794107,VIII,Denver
+H0067,"CO, Boulder [Urban core]",0.49793158,VIII,Denver
+H0068,"CO, Jefferson County [Urban core] [Central] Two",0.488877386,VIII,Denver
+H0069,"CO, Breckenridge [Suburban]",0.511615648,VIII,Denver
+H0070,"CO, Steamboat Springs [Suburban]",0.559560096,VIII,Denver
+H0071,"CO, Weld County [Urban core] [Central] One",0.508305694,VIII,Denver
+H0072,"CO, Larimer County [Urban core] [Central] Two",0.479551769,VIII,Denver
+H0073,"CO, Weld County [Urban core] [Central] Two",0.533816453,VIII,Denver
+H0074,"CO, Fort Morgan [Suburban]",0.563820471,VIII,Denver
+H0075,"CO, Sterling [Suburban]",0.556448119,VIII,Denver
+H0076,"CO, Kit Carson County [Large rural]",0.536928739,VIII,Denver
+H0077,"CO, Denver-Aurora-Greeley [Small town/rural]",0.535676659,VIII,Denver
+H0078,"CO, Pueblo-Cañon City [Urban core]",0.509917768,VIII,Denver
+H0079,"CO, Costilla County [Large rural]",0.565227575,VIII,Denver
+H0080,"CO, Baca County [Small town/rural]",0.544619663,VIII,Denver
+H0081,"CO, Prowers County [Large rural]",0.510025985,VIII,Denver
+H0082,"CO, Pueblo [Large rural]",0.526855353,VIII,Denver
+H0083,"CO, Alamosa County [Large rural]",0.521215444,VIII,Denver
+H0084,"CO, Durango [Suburban]",0.506524114,VIII,Denver
+H0085,"CO, Cañon City [Large rural]",0.51425066,VIII,Denver
+H0086,"CO, Montrose [Large rural]",0.541847862,VIII,Denver
+H0087,"CO, Grand Junction [Urban core]",0.529031845,VIII,Denver
+H0088,"CO, Edwards-Rifle [Large rural]",0.531811004,VIII,Denver
+H0089,"WY, Casper [Urban core]",0.595743473,VIII,Denver
+H0090,"WY, Riverton [Suburban]",0.587793155,VIII,Denver
+H0091,"WY-UT, Evanston [Suburban]",0.542513982,VIII,Denver
+H0092,"UT, Utah County [Urban core] [Central] One",0.521154837,VIII,Denver
+H0093,"UT, Davis County [Urban core]",0.482552454,VIII,Denver
+H0094,"UT, Salt Lake City-Murray [Urban core]",0.507314076,VIII,Denver
+H0095,"UT, Utah County [Urban core] [Central] Two",0.502496812,VIII,Denver
+H0096,"UT-ID, Logan [Urban core]",0.557806762,VIII,Denver
+H0097,"UT, Price [Suburban]",0.553035387,VIII,Denver
+H0098,"UT, Sevier County [Large rural]",0.556186729,VIII,Denver
+H0100,"UT, Provo-Orem-Lehi [Large rural]",0.541502784,VIII,Denver
+H0101,"UT, Juab County [Urban core]",0.540170396,VIII,Denver
+H0102,"UT, Cedar City [Suburban]",0.540322137,VIII,Denver
+H0103,"UT, St. George [Urban core]",0.532318307,VIII,Denver
+H0105,"SD-MN, Sioux Falls [Urban core]",0.546838128,VIII,Denver
+H0106,"SD, Davison County [Small town/rural]",0.569117936,VIII,Denver
+H0108,"SD, Aberdeen [Small town/rural]",0.555913089,VIII,Denver
+H0109,"ND, Minot [Small town/rural]",0.615900222,VIII,Denver
+H0110,"CO, Grand County [Small town/rural]",0.554180512,VIII,Denver
+H0111,"MT, Valley County [Small town/rural]",0.611640366,VIII,Denver
+H0112,"ND, Williston [Suburban]",0.614610432,VIII,Denver
+H0114,"WY, Gillette [Suburban]",0.539060206,VIII,Denver
+H0115,"CO, Yuma County [Large rural]",0.576234877,VIII,Denver
+H0116,"CO, Montrose [Suburban]",0.56131042,VIII,Denver
+H0117,"MT, Valley County [Large rural]",0.573637352,VIII,Denver
+H0118,"UT, Millard County [Large rural]",0.513148633,VIII,Denver
+J0001,"AZ, Maricopa County [Urban core] [Central] One",0.512686666,IX,San Francisco
+J0002,"AZ, Maricopa County [Urban core] [Central] Two",0.526822174,IX,San Francisco
+J0003,"AZ, Maricopa County [Urban core] [Central] Three",0.513323352,IX,San Francisco
+J0004,"AZ, Pinal County [Urban core]",0.496663498,IX,San Francisco
+J0005,"AZ, Pima County [Urban core] [Central] One",0.521832783,IX,San Francisco
+J0006,"AZ, Maricopa County [Urban core] [Central] Four",0.488828454,IX,San Francisco
+J0007,"CA, Los Angeles-Long Beach [Suburban] [Central]",0.560628129,IX,San Francisco
+J0008,"AZ, Yuma [Urban core]",0.556117383,IX,San Francisco
+J0009,"AZ, Phoenix-Mesa [Suburban]",0.520947468,IX,San Francisco
+J0010,"AZ, Safford [Suburban]",0.555223864,IX,San Francisco
+J0011,"AZ, Pima County [Urban core] [Central] Two",0.507059394,IX,San Francisco
+J0012,"AZ, Sierra Vista-Douglas [Urban core]",0.574109546,IX,San Francisco
+J0013,"AZ, Show Low [Large rural]",0.553249354,IX,San Francisco
+J0014,"AZ, Flagstaff [Urban core]",0.493431344,IX,San Francisco
+J0015,"AZ, Flagstaff [Large rural]",0.519654982,IX,San Francisco
+J0017,"AZ, Prescott Valley-Prescott [Urban core]",0.481014067,IX,San Francisco
+J0018,"AZ, Prescott Valley-Prescott [Large rural]",0.477022096,IX,San Francisco
+J0019,"AZ, Mohave County [Suburban] [Central]",0.592251034,IX,San Francisco
+J0020,"NV, Las Vegas-Henderson [Suburban]",0.550398981,IX,San Francisco
+J0021,"NV, Clark County [Urban core] [Central] One",0.597680454,IX,San Francisco
+J0022,"NV, Clark County [Urban core] [Central] Two",0.600658592,IX,San Francisco
+J0023,"NV, Carson City [Urban core]",0.554960636,IX,San Francisco
+J0024,"NV, Washoe County [Urban core]",0.529061745,IX,San Francisco
+J0025,"CA, Los Angeles County [Urban core] [Central] One",0.546913498,IX,San Francisco
+J0026,"CA, El Dorado County [Suburban] [Central] One",0.496001841,IX,San Francisco
+J0027,"CA, Nevada County [Suburban] [Central]",0.539524539,IX,San Francisco
+J0028,"NV, Elko [Suburban]",0.545058568,IX,San Francisco
+J0029,"CA, Los Angeles County [Urban core] [Central] Two",0.531714963,IX,San Francisco
+J0030,"CA, Los Angeles County [Urban core] [Central] Three",0.540042568,IX,San Francisco
+J0031,"CA, Los Angeles County [Urban core] [Central] Four",0.527678637,IX,San Francisco
+J0032,"CA, Orange County [Urban core] [Central] One",0.536648949,IX,San Francisco
+J0033,"CA, Orange County [Urban core] [Central] Two",0.515162475,IX,San Francisco
+J0034,"CA, San Bernardino County [Urban core] [Central] One",0.555137446,IX,San Francisco
+J0035,"CA, Riverside County [Urban core] [Central] One",0.564173669,IX,San Francisco
+J0036,"CA, San Diego County [Urban core] [Central] One",0.534209275,IX,San Francisco
+J0037,"CA, San Diego County [Urban core] [Central] Two",0.500529368,IX,San Francisco
+J0038,"CA, San Diego County [Urban core] [Central] Three",0.503090918,IX,San Francisco
+J0039,"CA, San Diego County [Urban core] [Central] Four",0.497120154,IX,San Francisco
+J0040,"CA, Riverside County [Urban core] [Central] Two",0.479652046,IX,San Francisco
+J0041,"CA, San Bernardino County [Urban core] [Central] Two",0.556605906,IX,San Francisco
+J0042,"CA, El Centro [Urban core]",0.587169043,IX,San Francisco
+J0044,"CA, Riverside County [Urban core] [Central] Three",0.545255193,IX,San Francisco
+J0045,"CA, Orange County [Urban core] [Central] Three",0.486653688,IX,San Francisco
+J0046,"CA, Oxnard-Thousand Oaks-Ventura [Urban core]",0.521524331,IX,San Francisco
+J0047,"CA, Santa Barbara County [Urban core] [Central] One",0.486325899,IX,San Francisco
+J0048,"CA, Hanford-Corcoran [Urban core]",0.542052432,IX,San Francisco
+J0049,"CA, Bakersfield-Delano [Urban core]",0.550543968,IX,San Francisco
+J0050,"CA, Tulare County [Urban core] [Central] One",0.533282703,IX,San Francisco
+J0051,"CA, San Luis Obispo-Paso Robles [Urban core]",0.513084002,IX,San Francisco
+J0052,"CA, Tulare County [Urban core] [Central] Two",0.551469466,IX,San Francisco
+J0053,"CA, Santa Barbara County [Urban core] [Central] Two",0.488102233,IX,San Francisco
+J0054,"CA, Los Angeles County [Urban core] [Central] Five",0.562706375,IX,San Francisco
+J0055,"CA, Fresno-Hanford-Corcoran [Large rural]",0.547315446,IX,San Francisco
+J0056,"CA, Bakersfield-Delano [Suburban]",0.56695949,IX,San Francisco
+J0057,"CA, Fresno County [Urban core] [Central] One",0.581075756,IX,San Francisco
+J0058,"CA, Fresno County [Urban core] [Central] Two",0.566469684,IX,San Francisco
+J0059,"CA, Merced [Urban core]",0.506067355,IX,San Francisco
+J0060,"CA, Monterey County [Urban core] [Central] One",0.508006444,IX,San Francisco
+J0061,"CA, Monterey County [Urban core] [Central] Two",0.494008067,IX,San Francisco
+J0062,"CA, San Francisco-San Mateo-Redwood City [Urban core] [Central]",0.473775365,IX,San Francisco
+J0063,"CA, San Mateo County [Urban core]",0.472524137,IX,San Francisco
+J0064,"CA, San Francisco County [Urban core]",0.503661003,IX,San Francisco
+J0065,"CA, Alameda County [Urban core] [Central] One",0.552567537,IX,San Francisco
+J0066,"CA, Contra Costa County [Urban core] [Outlying] One",0.48810763,IX,San Francisco
+J0067,"CA, Contra Costa County [Urban core] [Outlying] Two",0.481845558,IX,San Francisco
+J0068,"CA, Napa [Urban core]",0.549363702,IX,San Francisco
+J0069,"CA, Vallejo [Urban core]",0.555443747,IX,San Francisco
+J0070,"CA, Santa Clara County [Urban core] [Central]",0.520650417,IX,San Francisco
+J0071,"CA, Alameda County [Urban core] [Central] Two",0.486634148,IX,San Francisco
+J0072,"CA, Marin County [Urban core]",0.511279091,IX,San Francisco
+J0073,"CA, Sonoma County [Urban core] [Central]",0.470334739,IX,San Francisco
+J0074,"CA, San Rafael [Urban core] [Central]",0.486027368,IX,San Francisco
+J0075,"CA, Santa Cruz-Watsonville [Urban core]",0.456213804,IX,San Francisco
+J0076,"CA, San Joaquin County [Urban core] [Central] One",0.572718233,IX,San Francisco
+J0077,"CA, San Joaquin County [Urban core] [Central] Two",0.551006255,IX,San Francisco
+J0078,"NV-CA, Reno-Carson City-Gardnerville Ranchos [Suburban]",0.545267891,IX,San Francisco
+J0079,"CA, Calaveras County [Urban core]",0.533028733,IX,San Francisco
+J0080,"CA, Stanislaus County [Urban core] [Central] One",0.521547854,IX,San Francisco
+J0081,"CA, Mariposa County [Small town/rural]",0.57894373,IX,San Francisco
+J0082,"CA, Stanislaus County [Urban core] [Central] Two",0.554202147,IX,San Francisco
+J0083,"CA, Mendocino County [Suburban] [Central] One",0.567451413,IX,San Francisco
+J0084,"CA, San Jose-San Francisco-Oakland [Suburban] [Central]",0.544741452,IX,San Francisco
+J0085,"CA, Lake County [Suburban] [Central]",0.555150575,IX,San Francisco
+J0086,"CA, Mendocino County [Suburban] [Central] Two",0.540286741,IX,San Francisco
+J0087,"CA, Santa Rosa-Petaluma [Suburban]",0.485397517,IX,San Francisco
+J0088,"CA, Humboldt County [Suburban] [Central] One",0.498985879,IX,San Francisco
+J0089,"CA, Humboldt County [Suburban] [Central] Two",0.518481245,IX,San Francisco
+J0090,"CA, Crescent City [Suburban]",0.559775247,IX,San Francisco
+J0091,"CA, Placer County [Suburban]",0.492333551,IX,San Francisco
+J0092,"CA, Sacramento County [Urban core] [Central] One",0.537992811,IX,San Francisco
+J0093,"CA, Sacramento County [Urban core] [Central] Two",0.556429947,IX,San Francisco
+J0094,"CA, Yolo County [Urban core]",0.56231244,IX,San Francisco
+J0095,"CA, El Dorado County [Suburban] [Central] Two",0.567001934,IX,San Francisco
+J0096,"CA, El Dorado County [Urban core]",0.516643762,IX,San Francisco
+J0097,"CA, Placer County [Urban core]",0.528381478,IX,San Francisco
+J0098,"CA, Yuba City [Urban core]",0.526123451,IX,San Francisco
+J0099,"CA, Sacramento-Roseville [Large rural]",0.524961254,IX,San Francisco
+J0100,"CA, Chico [Suburban]",0.507992013,IX,San Francisco
+J0101,"CA, Chico [Urban core]",0.523359389,IX,San Francisco
+J0102,"CA, Truckee-Grass Valley [Suburban]",0.492969696,IX,San Francisco
+J0103,"CA, Susanville [Suburban]",0.585884298,IX,San Francisco
+J0104,"CA, Redding [Urban core]",0.445589796,IX,San Francisco
+J0105,"CA, Shasta County [Large rural]",0.522626033,IX,San Francisco
+J0106,"CA, Redding-Red Bluff [Suburban]",0.608848203,IX,San Francisco
+J0108,"CA, Siskiyou County [Large rural]",0.517537176,IX,San Francisco
+K0001,"ID, Pocatello [Urban core]",0.501559808,X,Seattle
+K0002,"ID, Idaho Falls [Urban core]",0.545400282,X,Seattle
+K0003,"UT-ID, Logan [Large rural]",0.541124235,X,Seattle
+K0004,"ID, Bear Lake County [Small town/rural]",0.542556458,X,Seattle
+K0005,"ID, Twin Falls [Suburban]",0.498752927,X,Seattle
+K0006,"ID, Hailey [Suburban]",0.533718152,X,Seattle
+K0007,"UT-ID, Salt Lake City-Provo-Orem [Suburban]",0.536523396,X,Seattle
+K0008,"ID, Idaho Falls-Rexburg-Blackfoot [Small town/rural]",0.523282451,X,Seattle
+K0009,"WA-ID, Pullman-Moscow [Urban core]",0.56882118,X,Seattle
+K0010,"ID, Idaho County [Small town/rural]",0.600078923,X,Seattle
+K0011,"ID-WA, Lewiston [Large rural]",0.543271688,X,Seattle
+K0012,"ID-OR, Boise City-Mountain Home-Ontario [Urban core]",0.515551066,X,Seattle
+K0013,"OR-ID, Ontario [Suburban]",0.509822633,X,Seattle
+K0014,"ID, Coeur d'Alene [Urban core]",0.537961046,X,Seattle
+K0016,"ID, Sandpoint [Suburban]",0.501695075,X,Seattle
+K0017,"ID, Sandpoint [Urban core]",0.502255693,X,Seattle
+K0018,"ID, Moscow [Suburban]",0.574332564,X,Seattle
+K0019,"WA, Pullman [Suburban]",0.534719882,X,Seattle
+K0020,"ID, Shoshone County [Large rural]",0.525432276,X,Seattle
+K0021,"OR, Clackamas County [Urban core]",0.519245219,X,Seattle
+K0022,"OR, Multnomah County [Urban core] [Central] One",0.486456124,X,Seattle
+K0023,"OR-WA, Portland-Vancouver-Salem [Small town/rural]",0.537259081,X,Seattle
+K0024,"WA, Longview-Kelso [Urban core]",0.571135491,X,Seattle
+K0025,"OR, Washington County [Urban core] [Central] One",0.494427863,X,Seattle
+K0026,"OR, The Dalles [Suburban]",0.552765926,X,Seattle
+K0027,"OR, Multnomah County [Urban core] [Central] Two",0.479607915,X,Seattle
+K0028,"OR, Washington County [Urban core] [Central] Two",0.501471755,X,Seattle
+K0029,"OR, Hermiston-Pendleton [Large rural]",0.509278979,X,Seattle
+K0030,"OR-WA, Portland-Vancouver-Hillsboro [Suburban]",0.520006303,X,Seattle
+K0031,"OR, Astoria [Suburban]",0.565144068,X,Seattle
+K0032,"OR, Lincoln County [Suburban] [Central] One",0.519529206,X,Seattle
+K0033,"OR, Tillamook County [Large rural]",0.553660879,X,Seattle
+K0034,"OR, Salem [Urban core]",0.506084425,X,Seattle
+K0035,"OR, Albany [Urban core]",0.509262986,X,Seattle
+K0037,"OR, Lincoln County [Suburban] [Central] Two",0.468341653,X,Seattle
+K0038,"OR, Eugene-Springfield [Urban core]",0.493952065,X,Seattle
+K0039,"OR, Coos Bay-North Bend [Suburban]",0.511607996,X,Seattle
+K0040,"OR, Roseburg [Suburban]",0.560528791,X,Seattle
+K0041,"OR, Coos Bay-North Bend [Large rural]",0.544766444,X,Seattle
+K0042,"OR, Roseburg [Urban core]",0.498793583,X,Seattle
+K0043,"OR, Grants Pass [Urban core]",0.543793784,X,Seattle
+K0044,"OR, Medford [Urban core]",0.518922891,X,Seattle
+K0045,"OR, Klamath Falls [Suburban]",0.492879846,X,Seattle
+K0046,"OR, Lake County [Large rural]",0.498373674,X,Seattle
+K0047,"OR, Bend [Urban core]",0.435043489,X,Seattle
+K0048,"OR, Harney County [Large rural]",0.510159423,X,Seattle
+K0049,"OR, Umatilla County [Suburban]",0.576436167,X,Seattle
+K0050,"WA, Walla Walla [Urban core]",0.535090078,X,Seattle
+K0051,"OR, Baker City [Large rural]",0.489850478,X,Seattle
+K0052,"OR, Morrow County [Suburban]",0.548411348,X,Seattle
+K0053,"OR, La Grande [Suburban]",0.530362614,X,Seattle
+K0054,"ID-WA, Lewiston [Small town/rural]",0.506097471,X,Seattle
+K0056,"OR, Grant County [Small town/rural]",0.532455266,X,Seattle
+K0057,"WA, King County [Urban core] [Central] One",0.544846442,X,Seattle
+K0058,"WA, King County [Urban core] [Central] Two",0.487940374,X,Seattle
+K0059,"WA, Snohomish County [Urban core] [Central] One",0.549893595,X,Seattle
+K0060,"WA, King County [Urban core] [Central] Three",0.529489917,X,Seattle
+K0061,"WA, King County [Urban core] [Central] Four",0.548603023,X,Seattle
+K0062,"WA, King County [Urban core] [Central] Five",0.535694391,X,Seattle
+K0063,"WA, Kitsap County [Urban core] [Central] One",0.466053148,X,Seattle
+K0064,"WA, Mount Vernon-Anacortes [Suburban]",0.570316699,X,Seattle
+K0065,"WA, Bellingham [Urban core]",0.536577982,X,Seattle
+K0066,"WA, Mount Vernon-Anacortes [Urban core]",0.556437805,X,Seattle
+K0067,"WA, Oak Harbor [Suburban]",0.564510655,X,Seattle
+K0068,"WA, Snohomish County [Urban core] [Central] Two",0.559599522,X,Seattle
+K0069,"WA, Pierce County [Urban core] [Central] One",0.505114106,X,Seattle
+K0070,"WA, Port Townsend [Large rural]",0.516051383,X,Seattle
+K0071,"WA, Pierce County [Urban core] [Central] Two",0.573636844,X,Seattle
+K0072,"WA, Pierce County [Urban core] [Central] Three",0.52946472,X,Seattle
+K0073,"WA, Port Angeles [Suburban]",0.525431361,X,Seattle
+K0074,"WA, Kitsap County [Urban core] [Central] Two",0.501790876,X,Seattle
+K0075,"WA, Seattle-Tacoma [Small town/rural]",0.513461293,X,Seattle
+K0076,"WA, Olympia-Lacey-Tumwater [Urban core]",0.514573747,X,Seattle
+K0077,"WA, Aberdeen [Suburban]",0.592230331,X,Seattle
+K0078,"WA, Centralia [Suburban]",0.501398135,X,Seattle
+K0079,"WA, Shelton [Suburban]",0.557242928,X,Seattle
+K0080,"WA, Clark County [Urban core]",0.527492698,X,Seattle
+K0081,"WA, Moses Lake-Othello [Urban core]",0.443385613,X,Seattle
+K0082,"WA, Wenatchee-East Wenatchee [Small town/rural]",0.61312246,X,Seattle
+K0083,"WA, Wenatchee-East Wenatchee [Large rural]",0.567483012,X,Seattle
+K0084,"WA, Moses Lake-Othello [Suburban]",0.517100905,X,Seattle
+K0085,NA Two,0.535821505,X,Seattle
+K0086,"WA, Yakima [Urban core]",0.523923768,X,Seattle
+K0087,"WA, Ellensburg [Suburban]",0.627393991,X,Seattle
+K0088,"WA, Kennewick-Richland-Walla Walla [Suburban]",0.56844564,X,Seattle
+K0089,"WA, Spokane County [Urban core] [Central] One",0.527783532,X,Seattle
+K0090,"WA, Spokane County [Urban core] [Central] Two",0.500610165,X,Seattle
+K0091,"WA, Stevens County [Urban core]",0.49732733,X,Seattle
+K0092,"WA, Othello [Small town/rural]",0.527384317,X,Seattle
+K0093,"WA-ID, Spokane-Spokane Valley-Coeur d'Alene [Small town/rural]",0.57698779,X,Seattle
+K0094,"WA, Moses Lake [Small town/rural]",0.550377137,X,Seattle
+K0095,"WA, Ferry County [Small town/rural]",0.549453834,X,Seattle
+K0096,"WA, Kennewick-Richland [Urban core]",0.532894656,X,Seattle
+K0097,"OR, Washington County [Urban core] [Central] Three",0.474484761,X,Seattle
+K0098,"OR, Yamhill County [Urban core]",0.525834351,X,Seattle
+K0099,"OR, Clatsop County [Large rural]",0.559030134,X,Seattle
+M0001,"AK, Anchorage [Urban core]",0.510617148,X,Seattle
+M0002,"AK, Kenai Peninsula Borough [Small town/rural]",0.556847862,X,Seattle
+M0003,"AK, Anchorage [Small town/rural]",0.506930653,X,Seattle
+M0004,"AK, Kenai Peninsula Borough [Large rural]",0.57458253,X,Seattle
+M0005,"AK, Kodiak Island Borough [Large rural]",0.565655376,X,Seattle
+M0006,"AK, Anchorage [Suburban]",0.542286171,X,Seattle
+M0008,"AK, Fairbanks-College [Urban core]",0.46757656,X,Seattle
+M0009,"AK, Ketchikan [Suburban]",0.52817581,X,Seattle
+N0001,"HI, Honolulu County [Urban core] [Central] One",0.518687293,IX,San Francisco
+N0002,"HI, Hawaii County [Suburban] [Central] One",0.574464101,IX,San Francisco
+N0003,"HI, Honolulu County [Urban core] [Central] Two",0.518568935,IX,San Francisco
+N0004,"HI, Hawaii County [Suburban] [Central] Two",0.51300268,IX,San Francisco
+N0005,"HI, Hilo-Kailua [Large rural]",0.52378647,IX,San Francisco
+N0007,"HI, Kahului-Wailuku [Urban core]",0.572872773,IX,San Francisco
+N0008,"HI, Kapaa [Suburban]",0.528772873,IX,San Francisco
