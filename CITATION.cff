@@ -55,5 +55,9 @@ authors:
   family-names: Bokov
   given-names: Alex
   orcid: 0000-0002-0511-9815
+license:
+- cdla-sharing-1.0
+title: Rehabilitation Service Areas (for post-acute care)
+type: dataset
 cff-version: 1.2.0
 
