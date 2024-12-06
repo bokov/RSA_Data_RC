@@ -1,15 +1,24 @@
-authors:
-- affiliation: The University of Texas Health Science Center at San Antonio
-  family-names: Reistetter
-  given-names: Timothy
-  orcid: 0000-0003-1732-5533
-- affiliation: The University of Texas Health Science Center at San Antonio
-  family-names: Bokov
-  given-names: Alex
-  orcid: 0000-0002-0511-9815
-license:
-- cdla-sharing-1.0
-title: Rehabilitation Service Areas (for post-acute care)
-type: dataset
-cff-version: 1.2.0
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
+cff-version: 1.2.0
+title: Rehabilitation Service Areas (for post-acute care)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - affiliation: >-
+      The University of Texas Health Science Center at San
+      Antonio
+    family-names: Reistetter
+    given-names: Timothy
+    orcid: 'https://orcid.org/0000-0003-1732-5533'
+  - affiliation: >-
+      The University of Texas Health Science Center at San
+      Antonio
+    family-names: Bokov
+    given-names: Alex
+    orcid: 'https://orcid.org/0000-0002-0511-9815'
+abstract: Files for rehabilitation service areas
+license: CDLA-Sharing-1.0
